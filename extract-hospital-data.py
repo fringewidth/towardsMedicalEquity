@@ -24,4 +24,16 @@ hospitals_df = hospitals_df[hospitals_df['Hospital Name'].str.contains('Hospital
 
 hospitals_df.to_csv('hospitals.csv', index=False)
 
+# %%
+# split the data into 4 files
+nRows = hospitals_df.shape[0]
+
+nRowsPerFile = nRows // 4
+
+for i in range(4):
+    start = i * nRowsPerFile
+    end = (i+1) * nRowsPerFile
+    if i == 3:
+        end = nRows
+    hospitals_df[start:end].to_csv(f'hospitals_{i}.csv', index=False)
 
