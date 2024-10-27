@@ -5,7 +5,7 @@
 
 #### Phase 1: Data Collection
 - [x] **Identify Hospital Dataset**: Locate a dataset with comprehensive information on hospitals across India.
-- [ ] **Extract and Filter Relevant Data**: Extract necessary information (e.g., hospital names) and filter out irrelevant values.
+- [x] **Extract and Filter Relevant Data**: Extract necessary information (e.g., hospital names) and filter out irrelevant values.
 - [ ] **Web Scraping Setup**: Develop and test a script to scrape data (coordinates, ratings, number of ratings) from Google Maps for each hospital.
 - [ ] **Data Documentation**: Document scraped data, including coordinates, ratings, and review counts.
 
