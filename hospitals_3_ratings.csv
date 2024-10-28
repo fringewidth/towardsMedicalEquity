@@ -1,0 +1,758 @@
+Hospital Name,CITY,STATE,Rating,Number of Reviews,Plus Code
+Prashanth Multispeciality Hospital,CHENNAI,TAMILNADU,4.6,6627,"X6HC+CG Chennai, Tamil Nadu"
+Apollo Spectra Hospital Alwarpet,CHENNAI,TAMILNADU,4.8,3223,"27P4+CV Chennai, Tamil Nadu"
+Sivam Hospital,CHENNAI,TAMILNADU,4.7,2100,"3646+4P Chennai, Tamil Nadu"
+FOR Ortho And Neuro Speciality Hospital,CHENNAI,TAMILNADU,4.6,1199,"46G4+5H Chennai, Tamil Nadu"
+Dr Rex S Hospital,CHENNAI,TAMILNADU,4.2,42,"37M2+H3 Chennai, Tamil Nadu"
+Orthomed Multispeciality Hospital,CHENNAI,TAMILNADU,,,
+Ravina Hospital,CHENNAI,TAMILNADU,4.4,815,"3567+M5 Chennai, Tamil Nadu"
+Mint Multispeciality Hospital,CHENNAI,TAMILNADU,3.8,335,"472M+4H Chennai, Tamil Nadu"
+Murugan Hospitals,CHENNAI,TAMILNADU,4.7,2834,"36MM+9P Chennai, Tamil Nadu"
+Saraswathy Multispecialty Hospital,CHENNAI,TAMILNADU,4.3,1205,"X684+5M Chennai, Tamil Nadu"
+Avinash Hospitals Pvt Ltd,CHENNAI,TAMILNADU,4.3,172,"W5XQ+X4 Chennai, Tamil Nadu"
+Bewell Hospitals,CHENNAI,TAMILNADU,4.7,2100,"3646+4P Chennai, Tamil Nadu"
+Gem Hospital And Research Centre,CHENNAI,TAMILNADU,4.7,1310,"X69W+M8 Chennai, Tamil Nadu"
+Be Well Hospitals(Poonamallee),CHENNAI,TAMILNADU,4.6,1979,"332X+6F Chennai, Tamil Nadu"
+Maaya Speciality Hospital,CHENNAI,TAMILNADU,4.7,1615,"46J6+JV Chennai, Tamil Nadu"
+VM Hospitals,CHENNAI,TAMILNADU,3.3,160,"45H3+2M Chennai, Tamil Nadu"
+Hycare Superspeciality Hospital,CHENNAI,TAMILNADU,4.5,780,"36C8+66 Chennai, Tamil Nadu"
+Rainbow Children Hospital,CHENNAI,TAMILNADU,4.7,2100,"3646+4P Chennai, Tamil Nadu"
+RPS Hospital,CHENNAI,TAMILNADU,,,
+MMRV Hospital,CHENNAI,TAMILNADU,4.5,1397,"35HC+J7 Chennai, Tamil Nadu"
+Muthu Hospital,CHENNAI,TAMILNADU,4.2,348,
+Bharath Hospital,CHENNAI,TAMILNADU,4.0,314,"X5JV+XG Chennai, Tamil Nadu"
+Km Hospitals,CHENNAI,TAMILNADU,,,
+Dr Arvind Vision Care Hospital,CHENNAI,TAMILNADU,4.7,335,"35M9+JM Chennai, Tamil Nadu"
+Neolife Childrens Hospital,CHENNAI,TAMILNADU,3.6,305,"X59Q+QG Chennai, Tamil Nadu"
+Neolife Hospital Pvt Ltd,CHENNAI,TAMILNADU,3.6,305,"X59Q+QG Chennai, Tamil Nadu"
+Ezhil Hospital,CHENNAI,TAMILNADU,3.8,143,"47HR+QG Chennai, Tamil Nadu"
+Mount Multispeciality Hospital,CHENNAI,TAMILNADU,4.3,284,"X5JX+XJ Chennai, Tamil Nadu"
+Mahalakshmi Multispeciality Hospital,CHENNAI,TAMILNADU,4.3,991,"24QM+M6 Chennai, Tamil Nadu"
+Tagore Medical College And Hospital,CHENNAI,TAMILNADU,4.0,300,"V45P+WJ Chennai, Tamil Nadu"
+Dr Mehta Multispeciality Hospital,CHENNAI,TAMILNADU,4.6,7436,"36CR+J6 Chennai, Tamil Nadu"
+C Dot Hospital,CHENNAI,TAMILNADU,4.6,889,"W643+W3 Chennai, Tamil Nadu"
+Lakshmi Maternity Hospital,CHENNAI,TAMILNADU,4.3,257,"X7V3+H4 Chennai, Tamil Nadu"
+"Srinivasan Rajalakshmi Memorial Hospital 11/77, 6th Street, Voltas Colony, Nanganallur,",CHENNAI,TAMILNADU,4.1,132,"X5FQ+82 Chennai, Tamil Nadu"
+Vishnu ENT Hospital,COIMBATORE,TAMILNADU,4.2,199,"2WGW+JR Coimbatore, Tamil Nadu"
+VG Hospital,COIMBATORE,TAMILNADU,3.9,307,"3WCR+7P Thudiyalur, Tamil Nadu"
+Rexortho Hospital,COIMBATORE,TAMILNADU,3.9,642,"2X54+9F Coimbatore, Tamil Nadu"
+Ashwin Hospital (Coimbatore),Coimbatore,TAMILNADU,4.2,483,"2XFF+M7 Gandhipuram, Tamil Nadu"
+Brj Ortho Centre And Mak Hospital,Coimbatore,TAMILNADU,3.4,153,"2XM2+JF Coimbatore, Tamil Nadu"
+Deepam Hospital ( Ramanathapuram ),Coimbatore,TAMILNADU,2.9,54,"X2W3+MG Ramanathapuram, Tamil Nadu"
+"Gem Hospital And Research Centre(P)Ltd No 45-A, Pankaja Mill Road, Ra,Manathapuram,",COIMBATORE,TAMILNADU,4.2,2741,"XXXW+R5 Ramanathapuram, Tamil Nadu"
+Global Ortho And Trauma Hospital,Coimbatore,TAMILNADU,4.2,115,"2X68+8C Coimbatore, Tamil Nadu"
+Kongunad Hospitals Pvt Ltd,COIMBATORE,TAMILNADU,4.8,5926,"2X96+35 Coimbatore, Tamil Nadu"
+Kovai Medical Center And Hospital Ltd,COIMBATORE,TAMILNADU,3.2,1576,"22RR+X5 Coimbatore, Tamil Nadu"
+Kps Hospitals Pvt Ltd,COIMBATORE,TAMILNADU,2.7,112,"8W2R+54 Mettupalayam, Tamil Nadu"
+PSG Hospitals,COIMBATORE,TAMILNADU,3.5,2073,"2294+FR Coimbatore, Tamil Nadu"
+Ranga Hospital Coimbatore,COIMBATORE,TAMILNADU,3.3,44,
+Rasi Hospital,Coimbatore,TAMILNADU,4.8,67,"9R7Q+MH Ramanathapuram, Tamil Nadu"
+Richmond Hospital,COIMBATORE,TAMILNADU,4.8,544,"XXVH+RQ Coimbatore, Tamil Nadu"
+Saraswathi Hospital,COIMBATORE,TAMILNADU,3.5,102,"234C+QH Coimbatore, Tamil Nadu"
+Sheela Hospital,COIMBATORE,TAMILNADU,4.1,325,"2X96+95 Coimbatore, Tamil Nadu"
+Spt Hospital Pvt Ltd,COIMBATORE,TAMILNADU,4.4,314,"2X76+PH Coimbatore, Tamil Nadu"
+Sri Balaji Hospital Coimbatore,Coimbatore,TAMILNADU,3.2,85,"XX3F+HH Kurichi, Tamil Nadu"
+Sri Lakshmi Medical Centre And Hospital,Coimbatore,TAMILNADU,3.3,153,"3WHR+79 Thudiyalur, Tamil Nadu"
+Sri Ramakrishna Hospital (Coimbatore),COIMBATORE,TAMILNADU,3.9,2533,"2XFH+73 Coimbatore, Tamil Nadu"
+Vega Ent Hospital,Coimbatore,TAMILNADU,4.1,188,"2W7V+MG Coimbatore, Tamil Nadu"
+Dr Muthus Hospital,COIMBATORE,TAMILNADU,4.1,652,"223R+37 Singanallur, Tamil Nadu"
+Royal Care Superspeciality Hospital,COIMBATORE,TAMILNADU,4.6,5519,"335Q+MQ Neelambur, Tamil Nadu"
+KG Hospital,COIMBATORE,TAMILNADU,4.4,1694,"2X2C+3J Coimbatore, Tamil Nadu"
+Dr Ezhil Ent Hospital,COIMBATORE,TAMILNADU,4.1,85,"X2X4+GW Coimbatore, Tamil Nadu"
+RS Hospital,COIMBATORE,TAMILNADU,3.3,241,"2X53+JV Coimbatore, Tamil Nadu"
+DJ Hospital,COIMBATORE,TAMILNADU,,,"2XG2+VF Saibaba Koil, Coimbatore, Tamil Nadu"
+Kannan Hospital,CUDDALORE,TAMILNADU,2.9,78,"QQ66+QM Cuddalore, Tamil Nadu"
+C. K. Hospital,Erode,TAMILNADU,4.8,777,"8PMH+36 Erode, Tamil Nadu"
+Dr Nsk Hospital,Erode,TAMILNADU,,,
+Senthil Multi Speciality Hospital,Erode,TAMILNADU,4.0,401,"8PQ7+HH Erode, Tamil Nadu"
+Bewell Hospitals(Erode),ERODE,TAMILNADU,4.7,812,"8PPG+MR Erode, Tamil Nadu"
+Santhi Hospital,HOSUR,TAMILNADU,4.4,310,"PRX4+G7 Hosur, Tamil Nadu"
+Arogya Seva Hospitals Pvt.Ltd,Hosur,TAMILNADU,2.0,4,
+RMD Specialities Hospital,KANCHIPURAM,TAMILNADU,4.5,174,"X2C9+54 Amarambedu, Tamil Nadu"
+Vijayakumar Hospital,KANYAKUMARI,TAMILNADU,3.8,69,
+Apollo Reach Hospital,KARAIKUDI,TAMILNADU,4.8,4422,"3PC4+JH Karaikudi, Tamil Nadu"
+Dr GC Hospital,KARUR,TAMILNADU,4.6,253,"X37G+5Q Karur, Tamil Nadu"
+Apollo Loga Hospital Karur,KARUR,TAMILNADU,4.8,5174,"X367+5Q Karur, Tamil Nadu"
+Vadamalayan Hospital Pvt Ltd,MADURAI,TAMILNADU,4.3,1414,"W4VJ+53 Chinna Chokikulam, Tamil Nadu"
+Apollo Speciality Hospitals Madurai,MADURAI,TAMILNADU,4.7,20771,"W4HX+8J Madurai, Tamil Nadu"
+Shenbagam Hospitals (P) Ltd,MADURAI,TAMILNADU,4.3,210,"W4FV+FC Sathamangalam, Tamil Nadu"
+Apollo First Med Hospital,MADURAI,TAMILNADU,4.5,4,"W4PR+3Q KK Nagar, Tamil Nadu"
+Bgm Hospital,MADURAI,TAMILNADU,4.1,234,"X48P+F9 Madurai, Tamil Nadu"
+Devadoss Multispeciality Hospital,MADURAI,TAMILNADU,4.0,372,"X553+5J Madurai, Tamil Nadu"
+Hannah Joseph Hospital Pvt Ltd,MADURAI,TAMILNADU,4.5,641,"V4HP+4J Madurai, Tamil Nadu"
+Jayam Hospital,Madurai,TAMILNADU,4.2,62,"W4PP+C8 Chinna Chokikulam, Tamil Nadu"
+"Meenakshi Mission Hospital And 
+Research Centre",MADURAI,TAMILNADU,4.3,2057,"W5X7+52 Madurai, Tamil Nadu"
+R.R. Hospital (Madurai),Madurai,TAMILNADU,3.7,68,"W4CX+9H Madurai, Tamil Nadu"
+Skg Hospital (Madurai),MADURAI,TAMILNADU,5.0,1,"X4FQ+9V Madurai, Tamil Nadu"
+Ashwini Hospital,MADURAI,TAMILNADU,4.8,479,"X532+W2 K.Pudur, Tamil Nadu"
+Rajan Hospital,MADURAI,TAMILNADU,3.9,14,"W469+J9 Madurai, Tamil Nadu"
+Priya Hospital,MADURAI,TAMILNADU,3.1,7,"RXGR+J9 Tirumangalam, Tamil Nadu"
+PPK Hospital,MARTHANDAM,TAMILNADU,3.8,134,
+Holy Cross Hospital,NAGERCOIL,TAMILNADU,4.0,419,"5CQ9+93 Nagercoil, Tamil Nadu"
+Nirmala Hospital,NAGERCOIL,TAMILNADU,5.0,3,"75GJ+X6 Puthukkadai, Tamil Nadu"
+Be Well Hospitals(Nagercoil),NAGERCOIL,TAMILNADU,4.7,698,"5CGH+G2 Nagercoil, Tamil Nadu"
+Bethesda Hospital,NAGERCOIL,TAMILNADU,4.8,740,"5CQG+8V Nagercoil, Tamil Nadu"
+Saravana Hospital (Namakkal),NAMAKKAL,TAMILNADU,4.0,120,"658C+JF Namakkal, Tamil Nadu"
+Deepthi Hospital,NAMAKKAL,TAMILNADU,3.3,61,"6589+46 Namakkal, Tamil Nadu"
+Sri Karunyaa Hospital,NAMAKKAL,TAMILNADU,4.8,23,"4276+2V Velur, Tamil Nadu"
+SM Hospital(BS Surgicare),OOTY,TAMILNADU,4.6,990,"CP22+9M Ooty, Tamil Nadu"
+Alva Hospital Pvt Ltd,POLLACHI,TAMILNADU,5.0,3,"MX2P+8J Pollachi, Tamil Nadu"
+Arathana Hospital,POLLACHI,TAMILNADU,4.5,511,"M294+7R Pollachi, Tamil Nadu"
+Arun Hospital Pollachi,POLLACHI,TAMILNADU,3.7,168,"M277+25 Pollachi, Tamil Nadu"
+Bewell Hospitals(Pudukottai),PUDUKKOTTAI,TAMILNADU,4.7,1452,"9RGF+HW Pudukkottai, Tamil Nadu"
+Kamala Hospital,SALEM,TAMILNADU,3.5,73,"M547+JP Salem, Tamil Nadu"
+Sri Sanjeevi Hospital,SALEM,TAMILNADU,4.9,2260,"M563+F8 Salem, Tamil Nadu"
+Aishwaryam Speciality Hospital,SALEM,TAMILNADU,2.9,223,"M4CG+MP Salem, Tamil Nadu"
+Dharan Hospital,SALEM,TAMILNADU,4.3,1916,"J4GW+43 Salem, Tamil Nadu"
+Sks Hospital India Pvt Ltd,SALEM,TAMILNADU,3.9,760,"M4CV+47 Salem, Tamil Nadu"
+"S Palaniandi Mudaliar Memorial Hospital 
+SPMM Hospital",SALEM,TAMILNADU,4.6,1861,"M56R+FR Salem, Tamil Nadu"
+Sri Gokulam Hospital,SALEM,TAMILNADU,2.9,275,"M4FM+3H Salem, Tamil Nadu"
+Sri Gokulam Hospital Pvt Ltd,SALEM,TAMILNADU,2.9,275,"M4FM+3H Salem, Tamil Nadu"
+"Thiru Neuro Multispeciality Hospital 
+Pvt.Ltd",Salem,TAMILNADU,4.4,377,"M673+2C Salem, Tamil Nadu"
+NITHISH GE & Multi Speciality Hospital,SALEM,TAMILNADU,3.8,125,"M47W+C8 Salem, Tamil Nadu"
+A C Hospital,SALEM,TAMILNADU,4.6,113,"M558+5H Salem, Tamil Nadu"
+Sundaram Multispeciality Hospital,SALEM,TAMILNADU,4.0,195,
+London Ortho Speciality Hospital,SALEM,TAMILNADU,4.2,374,"M552+W8 Salem, Tamil Nadu"
+Be Well Hospitals(Sivakasi),SIVAKASI,TAMILNADU,4.6,5,"FR32+5Q Sivakasi, Tamil Nadu"
+Meenakshi Hospital,THANJAVUR,TAMILNADU,4.5,2547,"P4W6+4R Thanjavur, Tamil Nadu"
+"KG Multispecialty Hospital and Research 
+centre",THANJAVUR,TAMILNADU,4.0,503,"Q4GP+MM Thanjavur, Tamil Nadu"
+Rohan Sekar Hospital,THENI,TAMILNADU,4.4,30,"P7HP+V7 Cumbum, Tamil Nadu"
+Muthu Hospital,TIRUNELVELI,TAMILNADU,3.5,16,"PP6G+9J Tirunelveli, Tamil Nadu"
+Ars Hospitals,TIRUPPUR,TAMILNADU,3.6,153,
+Deepa Hospitals,TIRUPPUR,TAMILNADU,2.5,35,
+Sri Kumaran Hospital,TIRUPPUR,TAMILNADU,4.2,954,"48JR+8G Tiruppur, Tamil Nadu"
+Sri Vasavi Hospital,TIRUVANNAMALAI,TAMILNADU,3.4,50,"63H8+JF Tiruvannamalai, Tamil Nadu"
+Maruti Hospital,TRICHY,TAMILNADU,4.6,1497,"RM6J+37 Tiruchirappalli, Tamil Nadu"
+Tiruchy Medical Center & Hospitals,TRICHY,TAMILNADU,3.7,33,"RM9M+FQ Tiruchirappalli, Tamil Nadu"
+Wellcare Hospital & Research Institute,TRICHY,TAMILNADU,3.4,54,"RMCM+H5 Tiruchirappalli, Tamil Nadu"
+Star Kims Hospital,TRICHY,TAMILNADU,4.0,144,"RMFJ+8Q Tiruchirappalli, Tamil Nadu"
+Rajesh Tilak Hospital,TUTICORIN,TAMILNADU,3.9,257,"R43H+J8 Thoothukudi, Tamil Nadu"
+Sri Hospitals,Tuticorin,TAMILNADU,,,"R4CJ+HF Jothi Nagar, Sankaraperi, Thoothukudi, Tamil Nadu"
+Be Well Hospitals(Tuticorin),TUTICORIN,TAMILNADU,4.8,408,"Q4QR+3C Thoothukudi, Tamil Nadu"
+"Sri Narayani Hospital And Research 
+Centre",VELLORE,TAMILNADU,4.4,2446,"V3CQ+5X Vellore, Tamil Nadu"
+Woodlands Hospital(Hyderabad),HYDERABAD,TELANGANA,4.2,237,"9FVX+52 Hyderabad, Telangana"
+Medwin Hospitals,Hyderabad,TELANGANA,3.6,58,"9FVC+FP Hyderabad, Telangana"
+Aditya Hospitals,HYDERABAD,TELANGANA,3.5,514,"9FRJ+4F Hyderabad, Telangana"
+"Sathya Kidney Centre And Super 
+Speciality Hospitals",HYDERABAD,TELANGANA,4.3,404,"CF3J+WR Hyderabad, Telangana"
+Pranaam Hospital Pvt Ltd,HYDERABAD,TELANGANA,3.9,2520,"F8VV+W3 Madeenaguda, Telangana"
+Aware Gleneagles Global Hospitals,HYDERABAD,TELANGANA,,,
+Anupama Hospital (Hyderabad),HYDERABAD,TELANGANA,4.2,1592,"F9PR+64 Hyderabad, Telangana"
+"Apollo Hospitals Enterprises Ltd 
+Hyderguda",HYDERABAD,TELANGANA,4.7,4829,"9FXH+QP Hyderguda, Telangana"
+Raghava Hospital,Hyderabad,TELANGANA,3.6,119,"CCQR+GV Hyderabad, Telangana"
+Care Hospital Banjara Hills,HYDERABAD,TELANGANA,4.6,6702,"CC7W+PH Hyderabad, Telangana"
+"Malla Reddy Narayana Multispeciality 
+Hospital",HYDERABAD,TELANGANA,4.4,6665,"GCVM+H9 Hyderabad, Telangana"
+Sai Venkateshwara Hospital,Hyderabad,TELANGANA,2.9,62,"8GVH+QX Kharmanghat, Telangana"
+Ankura Hospital(Kukatpally),HYDERABAD,TELANGANA,4.4,3508,"FCQ5+9W Hyderabad, Telangana"
+Dharani Hospital (Hyderabad),HYDERABAD,TELANGANA,3.0,45,"9CMP+FM Hyderabad, Telangana"
+Adr Hospital,HYDERABAD,TELANGANA,3.4,187,"FG5Q+85 Hyderabad, Telangana"
+Xenia Hospitals,Hyderabad,TELANGANA,3.8,199,"FHFC+3H Hyderabad, Telangana"
+LivLife Hospital Pvt Ltd,HYDERABAD,TELANGANA,4.4,106,"C9QX+6M Hyderabad, Telangana"
+Omega Hospitals,HYDERABAD,TELANGANA,4.3,765,"C9P8+HX Hyderabad, Telangana"
+Kakatiya Hospitals,HYDERABAD,TELANGANA,4.4,623,"CH5X+J9 Hyderabad, Telangana"
+Matrix Hospital,HYDERABAD,TELANGANA,3.3,312,"CG2R+24 Hyderabad, Telangana"
+Hope Children'S Hospital,HYDERABAD,TELANGANA,4.4,701,"CF4F+H9 Hyderabad, Telangana"
+Matrika Dr. Kalpana's Hospital,HYDERABAD,TELANGANA,3.7,215,"CFG6+X7 Hyderabad, Telangana"
+The Deccan Hospital,HYDERABAD,TELANGANA,4.8,2778,"CFF4+V5 Hyderabad, Telangana"
+Star Hospitals,HYDERABAD,TELANGANA,4.7,7694,"CC8W+76 Hyderabad, Telangana"
+Spark Hospital,HYDERABAD,TELANGANA,2.8,241,"CH3M+43 Hyderabad, Telangana"
+"NEO BBC new Born And Childrens 
+Hospital",HYDERABAD,TELANGANA,3.4,227,"CG35+8X Hyderabad, Telangana"
+Omni Hospital,HYDERABAD,TELANGANA,4.5,804,"CFF4+WJ Hyderabad, Telangana"
+Pace Hospitals,HYDERABAD,TELANGANA,4.5,8345,"C9WM+QM Hyderabad, Telangana"
+Aster Prime Hospitals,HYDERABAD,TELANGANA,4.9,23334,"CCQW+2C Hyderabad, Telangana"
+Ravi Hospital (Hyderabad),Hyderabad,TELANGANA,4.5,211,"F9MX+P9 Hyderabad, Telangana"
+Krishna Multi Speciality Hospital,HYDERABAD,TELANGANA,3.4,38,"9HW6+X4 Hyderabad, Telangana"
+GBR Hospital,HYDERABAD,TELANGANA,4.3,292,"9G9M+JV Hyderabad, Telangana"
+Eashwar Lakshmi Hospital,HYDERABAD,TELANGANA,2.8,47,"CF6Q+PH Hyderabad, Telangana"
+Ravi Helios Hospital,HYDERABAD,TELANGANA,3.3,85,"CF6M+F5 Hyderabad, Telangana"
+Ramdev Rao Memorial General Hospital,HYDERABAD,TELANGANA,3.9,1060,"FCR4+4Q Hyderabad, Telangana"
+Nova ENT Hospital,HYDERABAD,TELANGANA,4.3,580,"CF94+9W Hyderabad, Telangana"
+Indo Us Superspeciality Hospital,HYDERABAD,TELANGANA,4.5,588,"9GF2+37 Hyderabad, Telangana"
+Kamineni Hospitals Pvt. Ltd,HYDERABAD,TELANGANA,4.4,4784,"9H24+M6 Hyderabad, Telangana"
+Ikon Hospital,HYDERABAD,TELANGANA,3.7,334,"F9PQ+4X Hyderabad, Telangana"
+Yashoda Super Sprciality Hospital,HYDERABAD,TELANGANA,4.8,29007,"CFF4+QM Hyderabad, Telangana"
+"Vijaya Marie Hospital & Education 
+Society",HYDERABAD,TELANGANA,3.4,400,"CF54+28 Hyderabad, Telangana"
+SVK Hospital,HYDERABAD,TELANGANA,2.8,41,"GC6W+QJ Hyderabad, Telangana"
+Sai Sanjeevini Hospitals,HYDERABAD,TELANGANA,3.7,496,"9G6V+87 Hyderabad, Telangana"
+"Dr Raos ENT Super Speciality 
+International Hospital",HYDERABAD,TELANGANA,4.7,11009,"F9QV+7X Hyderabad, Telangana"
+"Apollo Hospitals Enterprises Ltd(Jubilee 
+Hills)",HYDERABAD,TELANGANA,4.8,31554,"CC87+44 Hyderabad, Telangana"
+Sreshta Orange Hospitals,HYDERABAD,TELANGANA,4.3,1283,"8HW3+2G Hyderabad, Telangana"
+Leela Hospital,HYDERABAD,TELANGANA,,,
+Citizens Hospital,HYDERABAD,TELANGANA,,,
+"Remedy Super Speciality 
+Hospital(Kukatpally )",HYDERABAD,TELANGANA,4.4,1997,"F9VX+VC Hyderabad, Telangana"
+Femina Motherhood Hospital,HYDERABAD,TELANGANA,3.9,37,
+Sankhya Hospitals,HYDERABAD,TELANGANA,4.5,534,"F9MV+H8 Hyderabad, Telangana"
+"Sai Siva Childrens Hospital And Poly 
+Clinic",HYDERABAD,TELANGANA,4.4,143,"F8VF+PJ Chanda Nagar, Hyderabad, Telangana"
+RR Hospital,HYDERABAD,TELANGANA,5.0,776,"FHXV+W4 Hyderabad, Telangana"
+Srikara Hospitals,HYDERABAD,TELANGANA,4.6,2009,"8GVX+QC L. B. Nagar, Hyderabad, Telangana"
+Virinchi Hospitals Hyderabad,HYDERABAD,TELANGANA,4.4,2917,"CF52+6G Hyderabad, Telangana"
+Konark Multispeciality Hospitals,HYDERABAD,TELANGANA,3.7,265,"GF6G+X5 Hyderabad, Telangana"
+Majestic Hospital,HYDERABAD,TELANGANA,4.7,1285,"9CJC+2C Hyderabad, Telangana"
+"Sunrise Super Speciality Children's 
+Hospital",HYDERABAD,TELANGANA,2.0,277,"9FVQ+6Q Hyderabad, Telangana"
+Pragna Hospitals,HYDERABAD,TELANGANA,3.6,205,"CFF2+J2 Hyderabad, Telangana"
+Seha Hospital,Hyderabad,TELANGANA,2.6,36,"CF36+MX Hyderabad, Telangana"
+"Sunrise Super Speciality Children'S 
+Hospital",HYDERABAD,TELANGANA,2.0,277,"9FVQ+6Q Hyderabad, Telangana"
+Trident Hospitals,HYDERABAD,TELANGANA,3.2,126,"796M+2J Hyderabad, Telangana"
+Little Stars Children'S Hospital,HYDERABAD,TELANGANA,4.4,1404,"CC8W+2M Hyderabad, Telangana"
+New Life Line Multi Speciality Hospital,HYDERABAD,TELANGANA,3.3,161,"FHQ7+5R Secunderabad, Telangana"
+"Lk Hospital Pvt Ltd Diagnostics And Poly 
+Clinic",HYDERABAD,TELANGANA,,,
+Dr Laxmans Children Hospital,HYDERABAD,TELANGANA,4.0,107,"GC8W+CW Hyderabad, Telangana"
+Bhavya Multispeciality Hospital,HYDERABAD,TELANGANA,4.4,112,"9HG4+VR Hyderabad, Telangana"
+Gurunanak Care Hospitals,HYDERABAD,TELANGANA,4.3,1144,"CF8X+54 Hyderabad, Telangana"
+"Dr rajashekar Reddy Laparoscopy 
+Hospital",HYDERABAD,TELANGANA,4.4,273,"9G3W+MQ L. B. Nagar, Hyderabad, Telangana"
+Sreshta Sri Kamala Hospitals,HYDERABAD,TELANGANA,3.7,418,"9G9C+8V Hyderabad, Telangana"
+Krishna Hospital,HYDERABAD,TELANGANA,3.8,22,
+Prasad Hospital,HYDERABAD,TELANGANA,4.6,2832,"FCR2+RJ Hyderabad, Telangana"
+Shreyas Hospital,HYDERABAD,TELANGANA,4.5,1295,"FHH7+43 Secunderabad, Telangana"
+Vanaja Hospital,HYDERABAD,TELANGANA,,,"G834+VF Hyderabad, Telangana"
+Asha Hospital,HYDERABAD,TELANGANA,3.1,214,"CCCM+FR Hyderabad, Telangana"
+Sigma Hospitals,HYDERABAD,TELANGANA,3.0,49,
+RK Hospitals,HYDERABAD,TELANGANA,4.5,122,"8GQF+J8 Champapet, Telangana"
+SM Hospital,HYDERABAD,TELANGANA,3.8,42,
+Sri Narmada Hospital,HYDERABAD,TELANGANA,3.3,175,"CF7R+C6 Hyderabad, Telangana"
+ST Theresas Hospital,HYDERABAD,TELANGANA,4.4,1994,"FC2Q+M2 Hyderabad, Telangana"
+Disha Childrens Hospital,HYDERABAD,TELANGANA,3.2,196,"9H34+23 Hyderabad, Telangana"
+Preeti Urology & Kidney Hospital,HYDERABAD,TELANGANA,4.4,2082,"F9RW+GQ Hyderabad, Telangana"
+"Lotus Hospitals For Women & Children 
+(Kukatpally)",HYDERABAD,TELANGANA,4.0,1068,"F9RV+C7 Hyderabad, Telangana"
+Lotus Hospitals For Women & Children,HYDERABAD,TELANGANA,4.0,1164,"CF36+M9 Hyderabad, Telangana"
+Shine Childrens Hospital,HYDERABAD,TELANGANA,2.2,55,"8HX2+8R L. B. Nagar, Hyderabad, Telangana"
+"Vasavi Medical And Research 
+Centre(Vasavi Hospital)",HYDERABAD,TELANGANA,4.5,119,"CF47+JP Hyderabad, Telangana"
+Healthcare Hospital,HYDERABAD,TELANGANA,2.9,112,"8GWX+5P Hyderabad, Telangana"
+Supraja Hospitals (Hyderabad),HYDERABAD,TELANGANA,4.1,944,"9HG5+P8 Hyderabad, Telangana"
+Sree Sreyas Hospital,HYDERABAD,TELANGANA,4.7,35,"8GWH+9J Hyderabad, Telangana"
+Sri Ganesh Orthopaedic Hospital,HYDERABAD,TELANGANA,4.5,154,"CCG4+GQ Jubilee Hills, Hyderabad, Telangana"
+"Sai Krishna Super Speciality Neuro 
+Hospital",HYDERABAD,TELANGANA,2.9,523,"9FQW+X9 Hyderabad, Telangana"
+"Apollo Hospital Enterprises 
+Ltd(Kanchanbagh-Drdo)",HYDERABAD,TELANGANA,4.7,3266,"8GV4+2R Hyderabad, Telangana"
+"Medicover Hospitals (A Unit Of 
+Sahrudaya Health Care Pvt Ltd)",HYDERABAD,TELANGANA,4.9,9258,"C9WH+M6 Hyderabad, Telangana"
+Aakar Asha Hospital,HYDERABAD,TELANGANA,4.6,145,"FCQ5+P6 Hyderabad, Telangana"
+Jayakrishna Hospital,HYDERABAD,TELANGANA,5.0,1,
+Janapareddy Hospitals Pvt Ltd,HYDERABAD,TELANGANA,4.3,1152,"GFFM+V4 Hyderabad, Telangana"
+Manjeera Super Speciality Hospital,HYDERABAD,TELANGANA,3.8,201,"H3QG+V6 Pothreddipalle, Telangana"
+Sumana Hospital,HYDERABAD,TELANGANA,,,
+Raja Hospital,HYDERABAD,TELANGANA,3.6,251,
+Cure Well Hospital,HYDERABAD,TELANGANA,3.4,14,"CF46+87 Hyderabad, Telangana"
+"Sri Sai Raghavendra Multi Speciality 
+Hospital",HYDERABAD,TELANGANA,5.0,10,"H3QM+F4 Sangareddy, Telangana"
+Gleneagles Global Hospitals,HYDERABAD,TELANGANA,4.8,5200,"CF47+48 Hyderabad, Telangana"
+Shalini Hospitals,HYDERABAD,TELANGANA,3.9,2714,"9FVW+28 Hyderabad, Telangana"
+Prathima Hospitals,HYDERABAD,TELANGANA,4.2,1716,"F9WX+M2 Hyderabad, Telangana"
+JJ Hospital,HYDERABAD,TELANGANA,3.5,579,"CCVJ+XX Hyderabad, Telangana"
+Archana Hospital Pvt Ltd,HYDERABAD,TELANGANA,4.1,1678,"F8WP+CX Miyapur, Telangana"
+Continental Hospitals,HYDERABAD,TELANGANA,4.6,18781,"C89Q+2Q Nanakramguda, Telangana"
+Mahavir Hospital And Research Centre,HYDERABAD,TELANGANA,3.2,433,"CF34+CR Hyderabad, Telangana"
+Vijaya Hospital,HYDERABAD,TELANGANA,3.9,60,"F8WW+59 Madeenaguda, Telangana"
+SLMS Hospital,HYDERABAD,TELANGANA,3.3,58,"9HG4+9P Hyderabad, Telangana"
+Sri Tirumala Hospital,HYDERABAD,TELANGANA,4.5,737,"G872+8V Ameenpur, Miyapur, Hyderabad, Telangana"
+Aruna Hospital,HYDERABAD,TELANGANA,3.1,226,"8HV3+QV L. B. Nagar, Hyderabad, Telangana"
+Vasundhara Hospital,HYDERABAD,TELANGANA,3.7,106,"FCFC+CM Hyderabad, Telangana"
+Sri Siddeshwara Hospital,HYDERABAD,TELANGANA,2.9,114,"8GWC+JF Hyderabad, Telangana"
+Care Hospital (Namapally),HYDERABAD,TELANGANA,4.5,3752,"9FPF+7J Hyderabad, Telangana"
+"Prathima Hospitals A Unit Of Mamatha 
+Medicare Private Ltd",HYDERABAD,TELANGANA,4.5,2241,"9FRW+23 Hyderabad, Telangana"
+Rainbow Children Hospital,HYDERABAD,TELANGANA,4.6,16998,"CCGJ+5Q Hyderabad, Telangana"
+Sri Sai Srinivasa Specialty Hospital,HYDERABAD,TELANGANA,4.0,180,"9FXR+5V Hyderabad, Telangana"
+Saptagiri Hospital,HYDERABAD,TELANGANA,4.5,528,"9G9J+J3 Hyderabad, Telangana"
+Thumbay Hospital,HYDERABAD,TELANGANA,4.7,3463,"9FGR+Q6 Hyderabad, Telangana"
+Himabindu Hospitals,HYDERABAD,TELANGANA,2.4,21,"9C8H+Q3 Hyderabad, Telangana"
+Vijaya Krishna Multi Specialty Hospital,HYDERABAD,TELANGANA,4.1,350,"FHJW+P3 Hyderabad, Telangana"
+Sagar Hospital,HYDERABAD,TELANGANA,4.9,262,"F9H9+Q2 Hyderabad, Telangana"
+"Abhaya Bbc New Born And Children 
+Hospital",HYDERABAD,TELANGANA,2.8,66,"CG25+PQ Hyderabad, Telangana"
+"Adavally Damodar Reddy Memorial 
+Hospital(ADRM)",HYDERABAD,TELANGANA,5.0,3,
+"Aditya Hospital(Aditya Medmaxx Lifecare 
+Pvt Ltd)",HYDERABAD,TELANGANA,4.4,106,"CFV7+Q8 Hyderabad, Telangana"
+Amrita Ent Head And Neck Hospital,HYDERABAD,TELANGANA,4.4,1244,"F9QR+CH Hyderabad, Telangana"
+Apex Hospitals-Hyderabad,HYDERABAD,TELANGANA,3.8,438,"CH5X+6G Hyderabad, Telangana"
+"Apollo Hospitals Enterprises 
+Ltd(Kukatpally)",Hyderabad,TELANGANA,4.1,23,"FCQ2+Q2 Hyderabad, Telangana"
+Apollo Spectra Hospital (Hyderabad),HYDERABAD,TELANGANA,4.8,3100,"CFQ3+32 Hyderabad, Telangana"
+Apoorva Hospital Mehdipatnam,HYDERABAD,TELANGANA,4.4,487,"9CRP+HQ Hyderabad, Telangana"
+Aruna Hospital(L.B. Nagar),HYDERABAD,TELANGANA,3.1,226,"8HV3+QV L. B. Nagar, Hyderabad, Telangana"
+Bibi Cancer Hospital,Hyderabad,TELANGANA,3.4,95,"9GC2+37 Hyderabad, Telangana"
+"Bristlecone Hospitals (A Unit Of Virinchi 
+Ltd)",HYDERABAD,TELANGANA,3.2,80,"8HHW+9J Hyderabad, Telangana"
+Care Hospitals,HYDERABAD,TELANGANA,4.5,5812,"CF72+23 Hyderabad, Telangana"
+"Century Super Speciality Hospital Pvt. Ltd 8-2-703, Road No 12,Telangana,,Banjara HillsNIL",HYDERABAD,TELANGANA,4.1,876,
+"Durgabai Deshmukh Hospital And 
+Research Centre",HYDERABAD,TELANGANA,3.0,21,"CG26+R4 Hyderabad, Telangana"
+"Evya Hospitals And Diabetic Reserach 
+Center",HYDERABAD,TELANGANA,3.5,373,"8HQC+M8 Vanasthalipuram, Telangana"
+Geeta Multi Speciality Hospital,Hyderabad,TELANGANA,4.1,314,"CGW5+R8 Secunderabad, Telangana"
+Harsha Hospital Hyderabad,HYDERABAD,TELANGANA,4.7,7677,"FCW8+44 Hyderabad, Telangana"
+Healix Hospital,Hyderabad,TELANGANA,4.3,842,"F8VW+PF Miyapur, Telangana"
+Himagiri Hospitals Pvt Ltd,HYDERABAD,TELANGANA,4.2,3894,"C9R5+WF Hyderabad, Telangana"
+"Icon Hospital ( A Unit Of Dandamudi 
+Anish Health Care)",Hyderabad,TELANGANA,3.7,334,"F9PQ+4X Hyderabad, Telangana"
+"Basavatarakam Indo American Cancer 
+Hospital & Research Institute",HYDERABAD,TELANGANA,4.0,2163,"CC8J+R6 Hyderabad, Telangana"
+Jananii Hospital,HYDERABAD,TELANGANA,4.7,1106,"9GVJ+H3 Hyderabad, Telangana"
+Kims Hospitals Enterprises Pvt Ltd,HYDERABAD,TELANGANA,4.5,27601,"CFPM+Q5 Begumpet, Hyderabad, Telangana"
+Kosaraju Hospitals,HYDERABAD,TELANGANA,,,"9CG9+6J Hyderabad, Telangana"
+Krishnaveni Multi Speciality Hospital,HYDERABAD,TELANGANA,2.7,148,"8HHV+WF Hyderabad, Telangana"
+"Landmark Hospital(A Unit Of Capital 
+Health Services India Pvt Ltd)",HYDERABAD,TELANGANA,4.5,2943,"F9XQ+M6 Hyderabad, Telangana"
+Maa Ent Hospital,HYDERABAD,TELANGANA,4.3,1620,"CCG7+VP Hyderabad, Telangana"
+Magnas V Hospital,HYDERABAD,TELANGANA,4.5,1248,"9G9J+69 Hyderabad, Telangana"
+"Mahesh Hospital And Research 
+Foundation",Hyderabad,TELANGANA,3.4,17,"CF2R+6J Hyderabad, Telangana"
+Manju Sudha Multi Speciality Hospital,HYDERABAD,TELANGANA,3.4,74,"9G9H+VP Hyderabad, Telangana"
+"Medicover Hospitals(A Unit Of Sahrudaya 
+Health Centre Pvt Ltd)",HYDERABAD,TELANGANA,4.9,9258,"C9WH+M6 Hyderabad, Telangana"
+Mcs Neuro Hospital,HYDERABAD,TELANGANA,4.3,464,"F9VX+24 Hyderabad, Telangana"
+Medisys Hospital,HYDERABAD,TELANGANA,3.6,510,"8HR5+F3 Hyderabad, Telangana"
+Microcare Ent Hospital Research Inst.,HYDERABAD,TELANGANA,4.6,3904,"F9VX+JC Hyderabad, Telangana"
+Motherhood Hospital (Banjara Hills),Hyderabad,TELANGANA,3.9,37,
+Mythri Hospital,HYDERABAD,TELANGANA,4.6,3240,"9CMH+FM Hyderabad, Telangana"
+Mythri Hospital(Mehdipatanam),HYDERABAD,TELANGANA,4.6,3240,"9CMH+FM Hyderabad, Telangana"
+"Neelima Hospital - Unit Of Neelima 
+Hospitals Pvt Ltd",HYDERABAD,TELANGANA,4.2,2299,"FC4Q+HG Hyderabad, Telangana"
+Nightingale Hospital,HYDERABAD,TELANGANA,4.5,787,"9G25+FR Hyderabad, Telangana"
+"Nirmala Maternity Orthopaedic And 
+General Hospital",HYDERABAD,TELANGANA,4.3,444,"9FV2+QQ Hyderabad, Telangana"
+Oakridge Hospitals,HYDERABAD,TELANGANA,3.9,79,"C9VP+X5 Madhapur, Hyderabad, Telangana"
+Olive Hospital,HYDERABAD,TELANGANA,4.4,4324,"9CVG+CR Hyderabad, Telangana"
+Omni Hospital,HYDERABAD,TELANGANA,4.3,3252,"9G9Q+9F Hyderabad, Telangana"
+Ozone Hospitals,HYDERABAD,TELANGANA,4.8,1854,"9G5V+QX Hyderabad, Telangana"
+Pace Hospital,HYDERABAD,TELANGANA,4.7,314,"F8VW+MR Hafeezpet, Hyderabad, Telangana"
+Pacific Hospital,Hyderabad,TELANGANA,4.4,7,"C99C+VP Hyderabad, Telangana"
+Padmavathi Hospital (Hyderabad),Hyderabad,TELANGANA,4.1,267,"F9V5+WX Miyapur, Telangana"
+Paramitha Childrens Hospital Pvt Ltd,HYDERABAD,TELANGANA,4.3,1103,"9G5V+VW Hyderabad, Telangana"
+Poulomi Hospitals,HYDERABAD,TELANGANA,4.0,1235,"FHJ3+X4 Secunderabad, Telangana"
+Premier Hospital Pvt.Ltd,HYDERABAD,TELANGANA,4.4,2855,"9CRG+JQ Hyderabad, Telangana"
+"Prime Hospitals (A Unit Of Sree 
+Ramachandra Health Services Pvt Ltd)",HYDERABAD,TELANGANA,4.9,23334,"CCQW+2C Hyderabad, Telangana"
+Pujitha Hospital,Hyderabad,TELANGANA,4.3,44,
+Raghavendra Hospital(Hyderabad),Hyderabad,TELANGANA,4.4,273,"FF4H+MF Secunderabad, Telangana"
+"Rainbow Hospital For Women And 
+Childrenrainbow Childrens Medicare Pvt 
+Ltd",HYDERABAD,TELANGANA,4.6,16998,"CCGJ+5Q Hyderabad, Telangana"
+Raja Hospital ( Hyderabad ),HYDERABAD,TELANGANA,3.6,251,
+Raman Hospital,HYDERABAD,TELANGANA,3.8,76,"FFW3+57 Hyderabad, Telangana"
+Russh Super Speciality Hospital,HYDERABAD,TELANGANA,4.4,3103,"FFXH+V2 Hyderabad, Telangana"
+S.V.S Hospital,Hyderabad,TELANGANA,3.6,375,"9FQV+P5 Hyderabad, Telangana"
+Safe Childrens Hospital,HYDERABAD,TELANGANA,3.0,257,"9G97+VP Hyderabad, Telangana"
+Sai Rajasri Hospitals,Hyderabad,TELANGANA,3.9,110,"9G6Q+FC Hyderabad, Telangana"
+Sai Ram Multi Speciality Hospital,HYDERABAD,TELANGANA,2.9,37,"9FVQ+XX Hyderabad, Telangana"
+Sai Siddhartha Hospital,HYDERABAD,TELANGANA,4.1,212,"GC8W+V3 Hyderabad, Telangana"
+"Sai Vani Hospitals Ltd (A Unit Of Laxmi 
+Jaya Hospitals Ltd)",HYDERABAD,TELANGANA,3.3,377,"CF6M+9C Hyderabad, Telangana"
+Sbr Pulse Hospital,HYDERABAD,TELANGANA,3.8,50,"9G8P+X9 Hyderabad, Telangana"
+Shyam Hospital,HYDERABAD,TELANGANA,4.0,99,"8HF4+6V Hyderabad, Telangana"
+Sigma Hospitals(Hyderabad),Hyderabad,TELANGANA,3.0,49,
+"Soumya Hospital For Women And 
+Children",HYDERABAD,TELANGANA,4.2,939,"CCVV+6G Hyderabad, Telangana"
+Sowmya Children'S Hospital,Hyderabad,TELANGANA,4.2,939,"CCVV+6G Hyderabad, Telangana"
+Sowmya Hospital,HYDERABAD,TELANGANA,3.3,94,"CG55+WC Hyderabad, Telangana"
+"Sri Radhika Multispecialty HospitalSri 
+Radhika Hospital",HYDERABAD,TELANGANA,4.5,552,"8GC8+5X Hyderabad, Telangana"
+"Sri Sai Ram Hospital, Hyderabad",Hyderabad,TELANGANA,4.0,1,
+"Sri Sri Holistic Hospitals(A Unit Of Sree 
+Ramachandra Health Servises Pvt",HYDERABAD,TELANGANA,4.4,5263,"G92Q+PH Hyderabad, Telangana"
+"Srikara Hospitals ( A Unit Of SNR Galaxy 
+Hospiitals Hyderabad Pvt Ltd)",HYDERABAD,TELANGANA,3.3,19,
+Sunrise Hospitals(Hyderabad),Hyderabad,TELANGANA,4.5,632,"8JH2+6M Hyderabad, Telangana"
+Suraksha Women And Children Hospital,HYDERABAD,TELANGANA,3.7,597,"GF8J+R6 Hyderabad, Telangana"
+Susheela Hospital(Hyderabad),HYDERABAD,TELANGANA,2.8,155,"CCPP+2H Hyderabad, Telangana"
+Sv Multispeciality Hospital,Hyderabad,TELANGANA,3.4,48,"8GC9+CX Balapur, Telangana"
+Tirumala Multi Speciality Hospital,HYDERABAD,TELANGANA,2.6,30,"8HP2+G7 Hyderabad, Telangana"
+Udai Omni Hospitals,HYDERABAD,TELANGANA,4.4,2270,"9FWC+QX Hyderabad, Telangana"
+Usha Mohan Hospital,Hyderabad,TELANGANA,3.7,11,
+Vijay Marie Hospital,Hyderabad,TELANGANA,3.4,400,"CF54+28 Hyderabad, Telangana"
+Vijaya Hospital,HYDERABAD,TELANGANA,3.9,60,"F8WW+59 Madeenaguda, Telangana"
+Vijaya Hospital(Madeenaguda),HYDERABAD,TELANGANA,3.9,60,"F8WW+59 Madeenaguda, Telangana"
+Zoi Hospitals,HYDERABAD,TELANGANA,4.5,750,"CFH4+4W Hyderabad, Telangana"
+Pulse Hospital,HYDERABAD,TELANGANA,4.7,528,"F9G6+XP Hyderabad, Telangana"
+Sri Ramakrishna Hospital (Hyderabad),HYDERABAD,TELANGANA,4.0,28,"9FPV+GP Hyderabad, Telangana"
+KIMS BIBI Hospital,HYDERABAD,TELANGANA,4.7,3,
+Sri Sai Balaji Hospital,HYDERABAD,TELANGANA,3.5,64,"9H66+PR Hyderabad, Telangana"
+Sahasva Hospital,HYDERABAD,TELANGANA,3.4,13,"9GV5+HG Hyderabad, Telangana"
+Sri Laxmi Health Care Hospital,HYDERABAD,TELANGANA,4.4,7,"9HG9+RQ Hyderabad, Telangana"
+Zoi Hospitals,HYDERABAD,TELANGANA,4.5,154,"CCG4+GQ Jubilee Hills, Hyderabad, Telangana"
+"Apollo Cradle A Unit Of Apollo Specialty 
+Hospital",HYDERABAD,TELANGANA,4.7,2785,"CC89+H2 Hyderabad, Telangana"
+Prerana Hospital,HYDERABAD,TELANGANA,3.0,407,"C92P+CF Hyderabad, Telangana"
+Kalyani Hospital,HYDERABAD,TELANGANA,4.4,62,"CFP3+6G Hyderabad, Telangana"
+Orchid Hospital,HYDERABAD,TELANGANA,3.4,76,"9G9M+GP Hyderabad, Telangana"
+Asian Multi Specialty Hospital,HYDERABAD,TELANGANA,,,
+Yashoda Krishna Hospital,HYDERABAD,TELANGANA,4.2,73,"9GR6+JG Hyderabad, Telangana"
+"Riya Hospital - A Unit of Vaishnavi 
+Research Centre",HYDERABAD,TELANGANA,4.5,19,"9FVX+WQ Hyderabad, Telangana"
+City Hospital,HYDERABAD,TELANGANA,4.0,11,
+Aditya Care Hospital Karimnagar,HYDERABAD,TELANGANA,4.1,90,"C4RJ+9H Karimnagar, Telangana"
+Arunodaya Multi Speciality Hospital,HYDERABAD,TELANGANA,3.5,24,
+Sunshine Hospital Gachibowli,HYDERABAD,TELANGANA,4.5,4441,"C9CP+22 Rai Durg, Telangana"
+Vinn Hospital,HYDERABAD,TELANGANA,3.3,4,
+Pavan Sai Hospital,HYDERABAD,TELANGANA,3.9,166,"9H65+68 Hyderabad, Telangana"
+Germanten Hospitals,HYDERABAD,TELANGANA,4.7,1374,"9C6H+Q7 Attapur, Gudimalkapur, Hyderabad, Telangana"
+AIG Hospitals,HYDERABAD,TELANGANA,4.3,17978,"C9V8+8G Hyderabad, Telangana"
+Avis Hospitals,HYDERABAD,TELANGANA,4.3,1013,"CCH9+Q4 Hyderabad, Telangana"
+Srihitha Hospital,HYDERABAD,TELANGANA,3.4,75,"9G9H+2R Hyderabad, Telangana"
+Sree Lekha Hospital,HYDERABAD,TELANGANA,4.7,35,"8GWH+9J Hyderabad, Telangana"
+Sangeetha Hospital,HYDERABAD,TELANGANA,4.1,32,"H3QM+MH Sangareddy, Telangana"
+Jeevan Hospital,HYDERABAD,TELANGANA,4.1,357,"8GVG+WR Kharmanghat, Telangana"
+Janani Hospitals,HYDERABAD,TELANGANA,4.5,24,"9G44+R3 Hyderabad, Telangana"
+Ushodaya Hospitals,HYDERABAD,TELANGANA,3.7,35,"9C6P+47 Hyderabad, Telangana"
+Viswas Multispeciality Hospital,HYDERABAD,TELANGANA,3.2,40,"8GRC+3P Hyderabad, Telangana"
+RBM Hospital,HYDERABAD,TELANGANA,4.1,591,"CH9M+9C Hyderabad, Telangana"
+Maax Life Multispeciality Hospitals,HYDERABAD,TELANGANA,4.4,92,"8GWH+33 Kharmanghat, Telangana"
+Citi Neuro Centre Hospital,HYDERABAD,TELANGANA,4.0,857,"CC7F+FQ Hyderabad, Telangana"
+Pratibha Super Speciality Hospital,HYDERABAD,TELANGANA,3.0,172,"M493+9Q Nizamabad, Telangana"
+New Shadow Hospital,HYDERABAD,TELANGANA,5.0,1,
+Happy Hospital,HYDERABAD,TELANGANA,3.4,195,"F8VV+W8 Hyderabad, Telangana"
+Hyderabad Multispeciality Hospital,HYDERABAD,TELANGANA,4.6,330,"9GC2+M5 Hyderabad, Telangana"
+Ankura Hospital(Sainikpuri),HYDERABAD,TELANGANA,4.4,1977,"FHJ3+R2 Hyderabad, Telangana"
+Ankura Hospital(Boduppal),HYDERABAD,TELANGANA,4.4,2872,"CH3M+54 Hyderabad, Telangana"
+Ankura Hospital(Madinaguda),HYDERABAD,TELANGANA,4.2,1836,"F8VR+WF Madeenaguda, Telangana"
+Anupama Hospital,HYDERABAD,TELANGANA,4.2,1592,"F9PR+64 Hyderabad, Telangana"
+Ent Care Hospital,HYDERABAD,TELANGANA,4.8,352,"9CVF+7Q Hyderabad, Telangana"
+Fatima Hospital,HYDERABAD,TELANGANA,4.2,718,"8FV5+WJ Hyderabad, Telangana"
+Mana Hospitals,HYDERABAD,TELANGANA,3.4,367,"FCV6+XR Hyderabad, Telangana"
+MEDS Hospital,HYDERABAD,TELANGANA,4.4,42,"9F86+5Q Hyderabad, Telangana"
+Nakshatra Hospitals,HYDERABAD,TELANGANA,4.7,1192,"9H64+XR Hyderabad, Telangana"
+Rohan Hospital,HYDERABAD,TELANGANA,3.8,149,"9FV2+VR Hyderabad, Telangana"
+Safe Kids Hospitals,HYDERABAD,TELANGANA,4.8,1494,"9CGH+4R Hyderabad, Telangana"
+Shashi Hospital,HYDERABAD,TELANGANA,2.7,137,"9G9C+MG Hyderabad, Telangana"
+Sunita Childrens Hospital,HYDERABAD,TELANGANA,3.6,161,"9G26+4R Hyderabad, Telangana"
+Surekha Hospital,HYDERABAD,TELANGANA,4.8,1901,"GFPQ+FC Hyderabad, Telangana"
+Srikara Hospitals,HYDERABAD,TELANGANA,4.6,2009,"8GVX+QC L. B. Nagar, Hyderabad, Telangana"
+Onus Hospital,HYDERABAD,TELANGANA,4.9,6609,"8GW9+RX Champapet, Telangana"
+Krishna Hospital,HYDERABAD,TELANGANA,3.8,22,
+Mythri Hospital Chandranagar,HYDERABAD,TELANGANA,4.6,5932,"F8X7+7Q Ramachandrapuram (BHEL Township), Telangana"
+Poojitha Hospital,HYDERABAD,TELANGANA,4.3,44,
+SS Multi Speciality Hospital,HYDERABAD,TELANGANA,1.5,2,"8HP2+Q8 Chintalkunta, Telangana"
+Dharani Hospital,HYDERABAD,TELANGANA,3.0,45,"9CMP+FM Hyderabad, Telangana"
+Ragini Childrens Hospital,HYDERABAD,TELANGANA,3.3,69,"GC7W+PR Hyderabad, Telangana"
+Sriven Hospital,HYDERABAD,TELANGANA,3.0,105,"F9PQ+92 Hyderabad, Telangana"
+Swaroopa Multispeciality Hospital,HYDERABAD,TELANGANA,2.6,50,"GF2C+HX Hyderabad, Telangana"
+"Maxcure Suyosha Woman And Child 
+Hospital",HYDERABAD,TELANGANA,4.8,3489,"F93H+CF Hyderabad, Telangana"
+Metro Cure Hospital,HYDERABAD,TELANGANA,4.0,152,"9GF2+3C Hyderabad, Telangana"
+Calcium Hospital,HYDERABAD,TELANGANA,4.2,46,"G94M+JM Hyderabad, Telangana"
+Skycare Hospitals Pvt Ltd,HYDERABAD,TELANGANA,4.0,16,
+"Raksha Cancer Hospital And 
+Chemotherapy Centre",Karimnagar,TELANGANA,4.7,99,"C4VH+8J Karimnagar, Telangana"
+Renee Hospital,Karimnagar,TELANGANA,4.5,1898,"C4WJ+34 Karimnagar, Telangana"
+Star Children Hospital,Karimnagar,TELANGANA,4.7,3744,"F44M+9W Karimnagar, Telangana"
+Sai Sharanya Hospitals,Karimnagar,TELANGANA,3.3,94,"C4QG+QQ Karimnagar, Telangana"
+Sparsh Childrens Hospital (Karimnagar),Karimnagar,TELANGANA,4.2,134,"C4RJ+5M Karimnagar, Telangana"
+Sri Mahalaxmi Children Hospital,Karimnagar,TELANGANA,4.7,35,"C4VH+RQ Karimnagar, Telangana"
+Sri Balaji Multi Speciality Hospital,Sangareddy,TELANGANA,4.3,728,"H3PV+M9 Sangareddy, Telangana"
+Parvathi Multispeciality Hospital,SECUNDERABAD,TELANGANA,3.9,246,"FG42+JH Secunderabad, Telangana"
+"Healing Touch Hospital And Institute of 
+Child Health Pvt Ltd",SECUNDERABAD,TELANGANA,4.4,559,"CFRX+42 Hyderabad, Telangana"
+Srinivasa Hospital,SECUNDERABAD,TELANGANA,4.3,91,
+Janapareddy Hospital,SECUNDERABAD,TELANGANA,2.5,2,"GFHM+F6 Hyderabad, Telangana"
+Basant Sahney Hospital,SECUNDERABAD,TELANGANA,4.1,650,"CGV3+QX Secunderabad, Telangana"
+Sunshine Hospital,SECUNDERABAD,TELANGANA,4.8,38132,"CFVC+HR Hyderabad, Telangana"
+BBR Super Speciality Hospital,SECUNDERABAD,TELANGANA,3.3,442,"FF74+PV Secunderabad, Telangana"
+Geetha Multispeciality Hospital,SECUNDERABAD,TELANGANA,4.1,314,"CGW5+R8 Secunderabad, Telangana"
+Srikara Hospitals,SECUNDERABAD,TELANGANA,4.6,2889,"FHF9+X5 Secunderabad, Telangana"
+Balaji Hospital,SECUNDERABAD,TELANGANA,4.4,14,"GH65+XH Secunderabad, Telangana"
+"Navjeevan Hospitals (A Unit Of 
+Navjeevan Life Care Pvt Ltd)",SECUNDERABAD,TELANGANA,4.0,355,"FF4X+67 Hyderabad, Telangana"
+Meena Hospital,SECUNDERABAD,TELANGANA,4.6,547,"CGRC+MP Secunderabad, Telangana"
+Sunlife Hospital,SECUNDERABAD,TELANGANA,4.3,33,"FHWW+FC Secunderabad, Telangana"
+Jubilee Hospitals,SECUNDERABAD,TELANGANA,2.8,96,"GG48+HC Secunderabad, Telangana"
+Basant Sahney Hospital,SECUNDERABAD,TELANGANA,4.1,650,"CGV3+QX Secunderabad, Telangana"
+Innova Childrens Heart Hospital pvt ltd,SECUNDERABAD,TELANGANA,3.5,144,"CGHM+P9 Hyderabad, Telangana"
+"Apollo Hospitals Enterprises 
+Ltd(Secunderabad)",SECUNDERABAD,TELANGANA,4.7,6218,"CGQ3+RV Secunderabad, Telangana"
+Prasad Hospitals,SECUNDERABAD,TELANGANA,4.5,2261,"CHQ4+93 Secunderabad, Telangana"
+BVK Reddy Hospital,SECUNDERABAD,TELANGANA,3.7,89,"CG99+C5 Secunderabad, Telangana"
+Keerthi Hospital,SECUNDERABAD,TELANGANA,3.9,27,"FJV3+8V Secunderabad, Telangana"
+Care Hospitals,SECUNDERABAD,TELANGANA,,,
+Bhavans Sarada Devi Hospital,SECUNDERABAD,TELANGANA,3.4,122,"FHJ2+XC Secunderabad, Telangana"
+New Life Line Medicure Hospitals,SECUNDERABAD,TELANGANA,3.6,139,"FGV6+GX Secunderabad, Telangana"
+"Mayflower Hospital For Women And 
+Children",SECUNDERABAD,TELANGANA,3.1,374,"FHM2+4X Secunderabad, Telangana"
+"Navodaya Hospital For Women And 
+Children",SECUNDERABAD,TELANGANA,2.6,332,"FG52+J6 Secunderabad, Telangana"
+Nest Hospital,Secunderabad,TELANGANA,3.1,167,"FG52+J6 Secunderabad, Telangana"
+Prashamsa Hospital,SECUNDERABAD,TELANGANA,2.3,317,"GG35+8V Secunderabad, Telangana"
+Rainbow Children Hospital,SECUNDERABAD,TELANGANA,4.3,2416,"FG52+HC Secunderabad, Telangana"
+Shree Pooja Hospital Hyd,SECUNDERABAD,TELANGANA,4.0,65,"CGFW+5Q Hyderabad, Telangana"
+Shri Adithya Hospitals,SECUNDERABAD,TELANGANA,3.8,341,"GH2R+93 Secunderabad, Telangana"
+Sri Chandra Hospital,SECUNDERABAD,TELANGANA,4.8,600,"8CHG+FC Shivarampally Jagir, Telangana"
+Sudha Hospital(Telanagana),SECUNDERABAD,TELANGANA,4.2,142,"FG8Q+8H Secunderabad, Telangana"
+"Suraksha Children Hospital (A Unit Of 
+Rochishmati Health Care Pvt Ltd)",SECUNDERABAD,TELANGANA,3.7,483,"CGGJ+FX Secunderabad, Telangana"
+KS Multi Speciality Hospital,SECUNDERABAD,TELANGANA,3.0,117,"FF9H+M4 Secunderabad, Telangana"
+Amrutha Children Hospital,SECUNDERABAD,TELANGANA,,,
+Kruti Hospital,SECUNDERABAD,TELANGANA,4.8,64,"FF9P+MC Secunderabad, Telangana"
+Lotus Cure Multispeciality Hospital,SECUNDERABAD,TELANGANA,3.9,147,"GG48+FQ Secunderabad, Telangana"
+Sundari Maternity and General Hospital,SECUNDERABAD,TELANGANA,2.9,64,"GG37+48 Hyderabad, Telangana"
+Shenoy Hospital,SECUNDERABAD,TELANGANA,4.7,4009,"CGX5+4H Secunderabad, Telangana"
+Ankura Hospital,SECUNDERABAD,TELANGANA,4.4,1977,"FHJ3+R2 Hyderabad, Telangana"
+Nest Children Hospital,SECUNDERABAD,TELANGANA,3.1,167,"FG52+J6 Secunderabad, Telangana"
+Lions Patny Hospital,SECUNDERABAD,TELANGANA,3.6,18,"FG23+49 Secunderabad, Telangana"
+Guardian Multi Speciality Hospital,WARANGAL,TELANGANA,2.6,129,"XHXM+RV Warangal, Telangana"
+Lalitha Hospital,WARANGAL,TELANGANA,3.7,54,"2H2M+W8 Warangal, Telangana"
+Javitri Devi Memorial Hospital,AGRA,UTTAR PRADESH,3.9,100,
+New Life Hospital,Agra,UTTAR PRADESH,3.9,18,"63F6+CX Agra, Uttar Pradesh"
+Shanti Mangalick Hospital(Agra),Agra,UTTAR PRADESH,,,
+Mithraj Multisuperspeciality Hospital,Aligarh,UTTAR PRADESH,4.5,427,"W432+F6 Aligarh, Uttar Pradesh"
+Priti Hospital,ALLAHABAD,UTTAR PRADESH,4.2,268,"FV43+XM Prayagraj, Uttar Pradesh"
+Feroz Hospital,ALLAHABAD,UTTAR PRADESH,,,
+Srijan Vatsalya Hospital Pvt Ltd,ALLAHABAD,UTTAR PRADESH,4.1,595,"FR2R+VX Prayagraj, Uttar Pradesh"
+Saran Hospital,BAREILLY,UTTAR PRADESH,,,
+Khushlok Hospital,BAREILLY,UTTAR PRADESH,3.1,305,"9C9J+VH Bareilly, Uttar Pradesh"
+Metro Vision Hospital,BAREILLY,UTTAR PRADESH,3.8,21,"9CP4+V5 Bareilly, Uttar Pradesh"
+Ajay Pratima Hospital,BAREILLY,UTTAR PRADESH,3.4,71,"9CGF+C2 Bareilly, Uttar Pradesh"
+"Shri Ganga Charan Aryawardhan Hospital A-2, Rampur Garden,,Opp Gandhi Udhyan,Civil Lines,NIL",BAREILLY,UTTAR PRADESH,,,
+"Shrinath Medicity A Multi Super Speciality 
+Hospital",BAREILLY,UTTAR PRADESH,3.0,231,"9FH9+49 Dohara, Uttar Pradesh"
+Shri Bholanath Global Hospital,BAREILLY,UTTAR PRADESH,4.3,4,
+Dr GK Shrivastava Hospital,BAREILLY,UTTAR PRADESH,3.6,33,"9C2G+5G Bareilly, Uttar Pradesh"
+Rohilkhand Medical College And Hospital,BAREILLY,UTTAR PRADESH,,,
+Narayana Hospital,BAREILLY,UTTAR PRADESH,3.4,92,"9C2G+73 Bareilly, Uttar Pradesh"
+Life Line Multispeciality Hospital(Bareilly),BAREILLY,UTTAR PRADESH,3.5,173,"9FJ4+J3 Bareilly, Uttar Pradesh"
+Care Hospital(Bareilly),BAREILLY,UTTAR PRADESH,,,
+Ruchi Atul Hospital,BAREILLY,UTTAR PRADESH,,,
+Vaidik Hospital,BAREILLY,UTTAR PRADESH,4.2,5,
+Pulkit Memorial Hospital,BIJNORE,UTTAR PRADESH,4.1,153,"94Q5+5Q Bijnor, Uttar Pradesh"
+"Kailash Hospital ( A Unit Of Umma 
+Medicare Ltd)","Gautam Buddha 
+Nagar",UTTAR PRADESH,4.6,3830,"FGC4+74 Greater Noida, Uttar Pradesh"
+Yashoda Hospital Nehru Nagar,GHAZIABAD,UTTAR PRADESH,,,
+Chandra Laxmi Hospital,GHAZIABAD,UTTAR PRADESH,,,
+Ganesh Hospital,GHAZIABAD,UTTAR PRADESH,4.4,420,"MC6Q+WM Ghaziabad, Uttar Pradesh"
+Sarvodaya Hospital And Heart Centre,GHAZIABAD,UTTAR PRADESH,3.0,85,"MF67+J6 Ghaziabad, Uttar Pradesh"
+Meenakshi Hospital,GHAZIABAD,UTTAR PRADESH,4.5,354,"J8RG+R7 Ghaziabad, Uttar Pradesh"
+Sarvodaya Hospital,Ghaziabad,UTTAR PRADESH,3.5,120,"J8VQ+WJ Ghaziabad, Uttar Pradesh"
+Gargi Hospital,GHAZIABAD,UTTAR PRADESH,,,
+Shanti Gopal Hospital,GHAZIABAD,UTTAR PRADESH,,,
+Yashoda Super Speciality Hospital,GHAZIABAD,UTTAR PRADESH,4.5,7745,"J8VH+WF Ghaziabad, Uttar Pradesh"
+Manav Hospital Ghaziabad,GHAZIABAD,UTTAR PRADESH,4.9,2404,"MC8W+V8 Ghaziabad, Uttar Pradesh"
+Kamal Hospital Kaushambi,GHAZIABAD,UTTAR PRADESH,,,
+Paras Hospital,GHAZIABAD,UTTAR PRADESH,3.8,460,"J8WV+VV Ghaziabad, Uttar Pradesh"
+Pannalal Shyamlal Hospital,Ghaziabad,UTTAR PRADESH,3.2,77,"MC7M+9X Ghaziabad, Uttar Pradesh"
+"Max Healthcare Super Speciality Hospital W-3, Sector-1, VaishaliVaishali",GHAZIABAD,UTTAR PRADESH,4.6,13332,"J8MM+R6 Ghaziabad, Uttar Pradesh"
+Krishna Hospital And Trauma Centre,GHAZIABAD,UTTAR PRADESH,,,
+Amicare Hospital Pvt Ltd (Ghaziabad),GHAZIABAD,UTTAR PRADESH,4.3,637,"J9R2+4R Ghaziabad, Uttar Pradesh"
+Aarogya Hospital,GHAZIABAD,UTTAR PRADESH,3.7,393,"J7RP+JH New Delhi, Delhi"
+Ambay Hospital,GHAZIABAD,UTTAR PRADESH,,,
+Columbia Asia Hospital,GHAZIABAD,UTTAR PRADESH,3.8,11,"MC9H+RC Ghaziabad, Uttar Pradesh"
+"Navin Hospital ( A Unit Of Navin 
+Meditech Pvt Ltd )",GHAZIABAD,UTTAR PRADESH,3.8,389,"J8RQ+H7 Ghaziabad, Uttar Pradesh"
+Prem Dharam Hospital And Diagnostics,Ghaziabad,UTTAR PRADESH,,,
+Rama Hospital And Resesarch Centre,GHAZIABAD,UTTAR PRADESH,3.6,191,"MJX5+86 Gironi, Uttar Pradesh"
+Shree Narayan Hospital,Ghaziabad,UTTAR PRADESH,,,
+LYF Hospital,GHAZIABAD,UTTAR PRADESH,4.5,1188,"J9V2+8G Ghaziabad, Uttar Pradesh"
+"Atlanta Mediworld Multispeciality Hospital 
+& Research Centre",GHAZIABAD,UTTAR PRADESH,,,
+Jagmohan Multispeciality Hospital,GHAZIABAD,UTTAR PRADESH,,,
+Healing Tree Hospital,GHAZIABAD,UTTAR PRADESH,4.6,2193,"J9X7+V9 Ghaziabad, Uttar Pradesh"
+Sharda Hospital (Noida),GREATER NOIDA,UTTAR PRADESH,,,
+Promhex Hospital,GREATER NOIDA,UTTAR PRADESH,,,
+Dev Nandini Hospital,HAPUR,UTTAR PRADESH,,,
+LAxmi Health Care Center & Hospital,Jaunpur,UTTAR PRADESH,,,
+Madhuraj Hospital,KANPUR,UTTAR PRADESH,,586,"F8H9+R3 Kanpur, Uttar Pradesh"
+"Apollo Spectra Hospitals (Apollo 
+Speciality Hospitals Private Ltd)",KANPUR,UTTAR PRADESH,4.6,3623,"F8GP+XQ Kanpur, Uttar Pradesh"
+Emerald Multi Specialty Hospital,Kanpur,UTTAR PRADESH,3.3,38,"C8HH+QX Kanpur, Uttar Pradesh"
+Guru Teg Bahadur Charitable Hospital,KANPUR,UTTAR PRADESH,3.6,116,"F894+4Q Kanpur, Uttar Pradesh"
+JL Rohatgi Hospital,KANPUR,UTTAR PRADESH,,,
+Kulwanti Hospital And Research Center,KANPUR,UTTAR PRADESH,,,
+Rama Hospital Research Centre,Kanpur,UTTAR PRADESH,,,
+SIS Hospital & Research Centre,KANPUR,UTTAR PRADESH,,,
+Fortune Hospital,KANPUR,UTTAR PRADESH,4.6,3303,"F7QQ+6M Kanpur, Uttar Pradesh"
+Naraina Hospital & Research Centre,KANPUR,UTTAR PRADESH,,,
+Lucknow Hospital,LUCKNOW,UTTAR PRADESH,,,
+Ajanta Hospital And Ivf Centre Pvt Ltd,LUCKNOW,UTTAR PRADESH,4.6,2788,"RW84+73 Lucknow, Uttar Pradesh"
+"Aastha Centre For Geriatric Medicine 
+Palliative Care Hospital And Hospice",LUCKNOW,UTTAR PRADESH,,,
+Ford Hospital Unit Of Nova Hospital LTD,LUCKNOW,UTTAR PRADESH,4.3,1371,"VX3X+76 Lucknow, Uttar Pradesh"
+M.V.Hospital And Research Centre,LUCKNOW,UTTAR PRADESH,,,
+Shalimar Hospital,Lucknow,UTTAR PRADESH,4.0,50,"VXGH+C3 Lucknow, Uttar Pradesh"
+Ahuja Hospital,LUCKNOW,UTTAR PRADESH,4.0,40,"V232+M3 Lucknow, Uttar Pradesh"
+Vinayak Medicare Hospital,LUCKNOW,UTTAR PRADESH,,,
+Nayati Multi Superspeciality Hospital,MATHURA,UTTAR PRADESH,,,
+Sirohi Hospital And maternity Home,MEERUT,UTTAR PRADESH,,,
+Jaswant Rai Speciality Hospital,MEERUT,UTTAR PRADESH,,,
+"Yashlok Hospital And Nursing Home Pvt 
+Ltd",MEERUT,UTTAR PRADESH,3.7,53,"XPP7+9F Meerut, Uttar Pradesh"
+Mrityunjay Hospital,MEERUT,UTTAR PRADESH,4.6,620,"XPQ4+2M Meerut, Uttar Pradesh"
+Chhatrapati Shivaji Subharti Hospital,MEERUT,UTTAR PRADESH,,,
+Meerut Critical Care Hospital,MEERUT,UTTAR PRADESH,,,
+"Anand Hospital(Anand Nirogdham 
+Hospital Pvt Ltd)",MEERUT,UTTAR PRADESH,,,
+Bhagya Shree Hospital,MEERUT,UTTAR PRADESH,3.4,104,"XP8P+98 Meerut, Uttar Pradesh"
+Bhupal Hospital Meerut,MEERUT,UTTAR PRADESH,,19,"XPR4+FC Meerut, Uttar Pradesh"
+Iimt Life Line Hospital,MEERUT,UTTAR PRADESH,,,
+Kmc Hospital And Research Centre,MEERUT,UTTAR PRADESH,,,
+"Metro Hospital And Heart 
+Institute(Meerut)",MEERUT,UTTAR PRADESH,,,
+Sm Hospital,MEERUT,UTTAR PRADESH,,,
+Nutema Hospital,MEERUT,UTTAR PRADESH,,,
+Nexaa Hospital,MEERUT,UTTAR PRADESH,,,
+CNS Hospital,MEERUT,UTTAR PRADESH,4.5,44,"WPPH+77 Meerut, Uttar Pradesh"
+Murti Multispeciality Hospital,MEERUT,UTTAR PRADESH,,,"XPVG+43 Meerut, Uttar Pradesh"
+Om Trauma And Neuro Hospital,MEERUT,UTTAR PRADESH,4.3,149,
+Silver Cross Hospital And Trauma Centre,MEERUT,UTTAR PRADESH,3.8,14,"XP6W+F7 Meerut, Uttar Pradesh"
+Yug Hospital,MEERUT,UTTAR PRADESH,3.7,21,
+Navjeevan Hospital,MEERUT,UTTAR PRADESH,3.5,41,"XP9P+G5 Meerut, Uttar Pradesh"
+Mediverve Hospital,MEERUT,UTTAR PRADESH,2.9,15,"XP5X+QC Meerut, Uttar Pradesh"
+Capital Hospital,MEERUT,UTTAR PRADESH,3.3,39,"WPXF+85 Meerut, Uttar Pradesh"
+Cosmos Hospital,MORADABAD,UTTAR PRADESH,3.3,419,"VPVH+JJ Moradabad, Uttar Pradesh"
+"Asian Vivekanand Super Specialty 
+Hospital",MORADABAD,UTTAR PRADESH,4.6,2160,"VPMP+GP Moradabad, Uttar Pradesh"
+Sri Sai Hospital (Moradabad),MORADABAD,UTTAR PRADESH,4.3,753,"RQR3+53 Moradabad, Uttar Pradesh"
+RSD Hospital And Research Centre,MORADABAD,UTTAR PRADESH,,3,"VQF3+5R Moradabad, Uttar Pradesh"
+"Sahu Rameshwar saran Kothiwal 
+Hospital(SRSK)",MORADABAD,UTTAR PRADESH,,,
+"Neo Hospital(Muskan Medical Centre 
+Pvt.Ltd)",NOIDA,UTTAR PRADESH,4.2,1983,"H99C+W3 Noida, Uttar Pradesh"
+Apollo Hospital Noida,NOIDA,UTTAR PRADESH,4.7,5583,"H8HM+QX Noida, Uttar Pradesh"
+"Kailash Hospital And Research Centre Ltd H-33, Sector-27,Noida",NOIDA,UTTAR PRADESH,4.6,10840,"H8HJ+3M Noida, Uttar Pradesh"
+Metro Hospital And Heart Institute,NOIDA,UTTAR PRADESH,,,
+Navin Hospital Pvt Ltd (G. Noida),NOIDA,UTTAR PRADESH,3.7,418,"FGH9+2C Greater Noida, Uttar Pradesh"
+Kailash Hospitals Ltd (Greater Noida),NOIDA,UTTAR PRADESH,4.6,3830,"FGC4+74 Greater Noida, Uttar Pradesh"
+Surbhi Hospital Pvt Ltd,NOIDA,UTTAR PRADESH,4.0,933,"H9H6+MG Noida, Uttar Pradesh"
+Prakash Hospital Pvt Ltd,NOIDA,UTTAR PRADESH,4.1,679,"H8PX+6Q Noida, Uttar Pradesh"
+Metro Multi Speciality Hospital,NOIDA,UTTAR PRADESH,3.9,1397,"H8WQ+W5 Noida, Uttar Pradesh"
+Astha Hospital Noida,NOIDA,UTTAR PRADESH,,138,
+"Prayag Hospital And Research Centre 
+Pvt.Ltd",NOIDA,UTTAR PRADESH,,5,"FGW9+32 Noida, Uttar Pradesh"
+Indo Gulf Diagnostics And Hospital,NOIDA,UTTAR PRADESH,4.3,727,"H8GG+VR Noida, Uttar Pradesh"
+Vinayak Hospital,NOIDA,UTTAR PRADESH,4.1,544,"H8CH+F7 Noida, Uttar Pradesh"
+Yatharth Wellness Hospital (Noida),NOIDA,UTTAR PRADESH,4.6,8124,"FG25+MR Greater Noida, Uttar Pradesh"
+Jaypee Hospital,NOIDA,UTTAR PRADESH,4.4,9391,"G98C+5H Noida, Uttar Pradesh"
+Durga Hospital,NOIDA,UTTAR PRADESH,2.3,53,"GGWW+RJ Dadri, Uttar Pradesh"
+Felix Hospital,NOIDA,UTTAR PRADESH,4.8,20688,"GC45+8C Noida, Uttar Pradesh"
+Fortis Hospital Noida,NOIDA,UTTAR PRADESH,4.0,4781,"J99F+F2 Noida, Uttar Pradesh"
+Green City Hospital,NOIDA,UTTAR PRADESH,3.2,169,"FGMG+FQ Greater Noida, Uttar Pradesh"
+Shri Ram Singh Multi Speciality Hospital,NOIDA,UTTAR PRADESH,4.8,3424,"H9VP+P3 Noida, Uttar Pradesh"
+Samvedna Hospital,Varanasi,UTTAR PRADESH,,,
+Surya Super Speciality Hospital,VARANASI,UTTAR PRADESH,3.7,298,"8X4J+46 Varanasi, Uttar Pradesh"
+Bhargava Hospital And Trauma Centre,Varanasi,UTTAR PRADESH,,,
+Pmc Hospital Pvt Ltd,VARANASI,UTTAR PRADESH,4.1,93,"72Q2+3M Varanasi, Uttar Pradesh"
+Archana Hospital And Lithotripsy Centre,DEHRADUN,UTTARAKHAND,2.8,121,"82MC+2W Dehradun, Uttarakhand"
+Max Super Specialty Hospital,DEHRADUN,UTTARAKHAND,4.2,4191,"93FF+9Q Dehradun, Uttarakhand"
+Himalayan Hospital A Unit of SRHU,DEHRADUN,UTTARAKHAND,,,
+Fortis Escorts Hospital Dehradun,DEHRADUN,UTTARAKHAND,3.6,90,
+Krishna Hospital And Research Centre,HALDWANI,UTTARAKHAND,3.5,494,"6GHJ+GV Haldwani, Uttarakhand"
+Sai Hospital Kaladhungi Road,HALDWANI,UTTARAKHAND,3.9,436,"6G89+W6 Haldwani, Uttarakhand"
+Matrix Hospital & accident Care,HALDWANI,UTTARAKHAND,4.2,208,"6GC6+JC Haldwani, Uttarakhand"
+City Hospital Haridwar,HARIDWAR,UTTARAKHAND,,12,
+"Metro Hospital And Heart Institute (A 
+Unit Of Sunhill Hospital Pvt Ltd)",HARIDWAR,UTTARAKHAND,3.1,460,"X387+X3 Haridwar, Uttarakhand"
+"Yog Mata Pilot Baba Multispeciality 
+Hospital",HARIDWAR,UTTARAKHAND,,,
+Jeevandeep Hospital,RUDRAPUR,UTTARAKHAND,,26,"XCM2+R5 Rudrapur, Uttarakhand"
+MP Memorial Hospital,"UDHAMSINGHNAGA
+R",UTTARAKHAND,3.9,12,"6X98+P6 Kashipur, Uttarakhand"
+Anand Hospital & Research Centre,"UDHAMSINGHNAGA
+R",UTTARAKHAND,4.0,86,"WXF8+GC Khatima, Uttarakhand"
+Shree Krishna Hospital(Kashipur),"UDHAMSINGHNAGA
+R",UTTARAKHAND,3.2,145,
+"Sahota Super Speciality Hospital And 
+Neurotrauma Centre","UDHAMSINGHNAGA
+R",UTTARAKHAND,4.8,2007,"6X33+WQ Kashipur, Uttarakhand"
+Lila Hospital Pvt Ltd,BEHRAMPORE,WEST BENGAL,,13,
+Kisholoy Childrens Hospital,BURDHWAN,WEST BENGAL,4.5,435,"6VFJ+Q5 Bardhaman, West Bengal"
+Diamond Hospital Pvt Ltd Andal,Durgapur,WEST BENGAL,3.0,12,"H6R4+XM Ukhra, West Bengal"
+"Iq City Narayana Multispeciality 
+Hospital(A Division Of Iq City 
+Foundation)",DURGAPUR,WEST BENGAL,3.0,56,"H8CP+9Q Durgapur, West Bengal"
+Healthworld Hospitals,DURGAPUR,WEST BENGAL,3.8,2374,"G7QQ+XM Durgapur, West Bengal"
+We Care Hospital,HOOGHLY,WEST BENGAL,3.1,230,"M87R+JG Uttarpara, West Bengal"
+Kamala Ray Hospital Pvt Ltd,HOOGLI,WEST BENGAL,3.4,192,"M9M3+CR Debaipukur, West Bengal"
+Relife Multispecialty Hospital,HOOGLI,WEST BENGAL,2.5,176,"M9M3+RV Debaipukur, West Bengal"
+Narayana Multispeciality Hospital,HOWRAH,WEST BENGAL,,4758,"H78C+X5 Howrah, West Bengal"
+"Sebabrata Super Specialist Hospital And 
+Diagnostic Centre Pvt Ltd",HOWRAH,WEST BENGAL,3.4,146,
+"Narayana Superspeciality Hospital (Unit 
+Of Meridian Research And Hospital Ltd",HOWRAH,WEST BENGAL,4.7,14433,"H865+X6 Howrah, West Bengal"
+"Sanjiban Hospital(A Unit Of Hybridization 
+Udyog)",HOWRAH,WEST BENGAL,,,"H882+HP Howrah, West Bengal"
+Ideal Clinic and Hospital Pvt Ltd,Howrah,WEST BENGAL,2.7,25,"F39V+8V Howrah, West Bengal"
+Shree Jain Hospital And Research Centre,HOWRAH,WEST BENGAL,4.7,2737,
+MCS Diagnostic and Hospital Pvt Ltd,HOWRAH,WEST BENGAL,3.5,56,"G5H2+MJ Panchla, West Bengal"
+Medica Superspecialty Hospital,KOLKATA,WEST BENGAL,4.5,12888,"FCV2+M7 Kolkata, West Bengal"
+Health Point Multispeciality Hospital,KOLKATA,WEST BENGAL,3.2,243,"G9J3+CC Kolkata, West Bengal"
+Apollo Gleneagle Hospital Ltd,KOLKATA,WEST BENGAL,,27780,"HCF2+8C Kolkata, West Bengal"
+"North City Hospital And Neuro Institute 
+Pvt Ltd",KOLKATA,WEST BENGAL,3.6,691,"H9QV+PF Kolkata, West Bengal"
+Zenith Super Specialist Hospital,KOLKATA,WEST BENGAL,,,
+Eco Hospital And Diagnostics,KOLKATA,WEST BENGAL,3.0,167,"PFFV+G3 Kolkata, West Bengal"
+AMRI Hospitals Salt Lake,KOLKATA,WEST BENGAL,4.7,21150,"HC96+9M Kolkata, West Bengal"
+Anandalok Hospital,KOLKATA,WEST BENGAL,,448,"HCMF+W6 Kolkata, West Bengal"
+"Peerless Hospital And BK Roy Reseasrch 
+Centre",KOLKATA,WEST BENGAL,4.0,11,"F9JV+9G Kolkata, West Bengal"
+GD Hospital And Diabetes Institute,KOLKATA,WEST BENGAL,3.4,692,"H966+RV Kolkata, West Bengal"
+"Rotary Narayana Multyspeciality Hospital 
+Salt Lake",KOLKATA,WEST BENGAL,3.9,139,"HCHM+29 Kolkata, West Bengal"
+"Phoenix Hospitaland Diagnostic Centre 
+(Pvt.) Ltd.",KOLKATA,WEST BENGAL,,160,"JCWJ+PV Kolkata, West Bengal"
+"BP Poddar Hospital and Medical Research 
+Ltd",KOLKATA,WEST BENGAL,4.3,4341,"G86J+PX Kolkata, West Bengal"
+"Rg Stone Urology And Laparoscopy 
+Hospital",KOLKATA,WEST BENGAL,4.5,975,"G948+8X Kolkata, West Bengal"
+Narayana Multispeciality Hospital,KOLKATA,WEST BENGAL,,4758,"H78C+X5 Howrah, West Bengal"
+Ils Hospital Dum Dum,KOLKATA,WEST BENGAL,4.6,4749,"JCF8+RV Kolkata, West Bengal"
+SVS Marwari Hospital,KOLKATA,WEST BENGAL,,,
+Woodlands Multispeciality Hospital Ltd,KOLKATA,WEST BENGAL,3.9,1886,"G8JH+VJ Kolkata, West Bengal"
+Sterling Hospital (Kolkata),KOLKATA,WEST BENGAL,4.1,474,"H9X9+X4 Kolkata, West Bengal"
+ILS Hospitals (Salt Lake),KOLKATA,WEST BENGAL,,,
+ASG Hospital Pvt Ltd Kolkata,KOLKATA,WEST BENGAL,,2207,"HCX2+3Q Kolkata, West Bengal"
+Iris Hospital,KOLKATA,WEST BENGAL,4.5,4841,"F9HG+P9 Kolkata, West Bengal"
+RSV Hospital Pvt Ltd,KOLKATA,WEST BENGAL,3.9,1199,"G83V+6R Kolkata, West Bengal"
+Fortis Hospital And Kidney Institute,KOLKATA,WEST BENGAL,4.5,2592,"G994+8C Kolkata, West Bengal"
+Nabajiban Hospital Pvt Ltd,KOLKATA,WEST BENGAL,4.0,302,"H9XF+CC Kolkata, West Bengal"
+"Dum Dum Municipal Specialised Hospital 
+And Cancer Research Centre",KOLKATA,WEST BENGAL,3.0,207,"JCQ8+G2 North Dumdum, West Bengal"
+AMRI Hospital Mukundapur,KOLKATA,WEST BENGAL,4.7,13716,"FCV2+JR Kolkata, West Bengal"
+AMRI Hospitals Ltd Dhakuria,KOLKATA,WEST BENGAL,4.7,18570,"G979+23 Kolkata, West Bengal"
+Bmrc Hospitals Ltd,KOLKATA,WEST BENGAL,3.7,771,"P9XF+M2 Barrackpore, West Bengal"
+Calcutta Heart Clinic And Hospital,KOLKATA,WEST BENGAL,4.4,796,"HCG9+38 Kolkata, West Bengal"
+Columbia Asia Hospital(Kolkata),KOLKATA,WEST BENGAL,,3673,"HCC7+X4 Kolkata, West Bengal"
+Desun Hospital And Heart Institute,KOLKATA,WEST BENGAL,4.5,6097,"GC73+V7 Kolkata, West Bengal"
+Fortis Hospital Anandapur,KOLKATA,WEST BENGAL,,,
+"Gems Hospital And Medical Research 
+Institute",KOLKATA,WEST BENGAL,3.7,45,"F6XW+WF Maheshtala, West Bengal"
+Genesis Hospital,KOLKATA,WEST BENGAL,4.6,424,"G97X+JJ Kolkata, West Bengal"
+Lotus Hospital,KOLKATA,WEST BENGAL,3.6,146,"JFPH+2C Kanjialpara, West Bengal"
+Nehru Memorial Techno Global Hospital,KOLKATA,WEST BENGAL,4.0,821,"Q989+R2 Barrackpore, West Bengal"
+Ohio Hospital And Medical Centre,KOLKATA,WEST BENGAL,4.1,1825,"HFHG+7R Kolkata, West Bengal"
+"Remedy Hospital(A Unit Of Remedy 
+Medical Services Pvt Ltd)",KOLKATA,WEST BENGAL,,333,"F98Q+4X Kolkata, West Bengal"
+Ruby General Hospital Ltd,KOLKATA,WEST BENGAL,4.6,7530,"GC73+C5 Kolkata, West Bengal"
+Sahid Khudiram Bose Hospital,KOLKATA,WEST BENGAL,3.3,251,"M97G+6V Kolkata, West Bengal"
+"Behala Balananda Brahmachari Hospital 
+and Research Center",KOLKATA,WEST BENGAL,3.9,264,"G84C+J7 Kolkata, West Bengal"
+Spandan Hospital,KOLKATA,WEST BENGAL,4.5,4344,"JCCM+65 Kolkata, West Bengal"
+Peerless Hospital City Diagnostic Centre,KOLKATA,WEST BENGAL,3.5,84,"H9P7+P3 Kolkata, West Bengal"
+Dr BK Memorial Hospital,KOLKATA,WEST BENGAL,3.8,29,"MC74+3H North Dumdum, West Bengal"
+Debdoot Sevayan Hospital,KOLKATA,WEST BENGAL,4.5,444,"G85V+5H Kolkata, West Bengal"
+Baine Hospital,KOLKATA,WEST BENGAL,,,
+"Jagannath Gupta Institute of Medical 
+Sciences And Hospital (JIMS)",KOLKATA,WEST BENGAL,3.8,851,"F53C+9H Buita, West Bengal"
+Baroma Sirona Hospital,Medinipur,WEST BENGAL,4.1,348,"CP5R+7W Uttar Mechogram, West Bengal"
+St.Joseph'S Hospital (Medinipur),Medinipur,WEST BENGAL,3.8,121,
+Netraalok Hospital,"NORTH 24 
+PARGANAS",WEST BENGAL,4.2,125,"VCQH+4F Kolkata, West Bengal"
+Care Concern Hospital Pvt Ltd,SERAMPORE,WEST BENGAL,3.3,170,"Q82M+FJ Hooghly, West Bengal"
+Paramount Hospital Pvt Ltd,SILIGURI,WEST BENGAL,3.4,306,"PC39+W7 Siliguri, West Bengal"
