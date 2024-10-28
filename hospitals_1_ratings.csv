@@ -1,6 +1,6 @@
 Hospital Name,CITY,STATE,Rating,Number of Reviews,Plus Code
-East Point Hospital (Banglore),Bangalore,KARNATAKA,4.0,1135,"3P38+FV Bengaluru, Karnataka"
-Essential Hospital,Bangalore,KARNATAKA,4.0,393,"XGF5+WR Bengaluru, Karnataka"
+East Point Hospital (Banglore),Bangalore,KARNATAKA,4,1135,"3P38+FV Bengaluru, Karnataka"
+Essential Hospital,Bangalore,KARNATAKA,4,393,"XGF5+WR Bengaluru, Karnataka"
 Fortis Hospitals Cunningham Road,BANGALORE,KARNATAKA,4.6,4792,"XHQV+7P Bengaluru, Karnataka"
 Fortis Hospitals Ltd Bannerghatta,BANGALORE,KARNATAKA,4.7,18633,"VHVX+WC Bengaluru, Karnataka"
 Fortis Hospitals Ltd Nagarbhavi,BANGALORE,KARNATAKA,4.6,6052,"XG56+WG Bengaluru, Karnataka"
@@ -9,17 +9,17 @@ Gleneaglas Global Hospitals,BANGALORE,KARNATAKA,4.2,160,"XH8X+5X Bengaluru, Karn
 Green City Hospital,Bangalore,KARNATAKA,4.1,450,"WH4P+73 Bengaluru, Karnataka"
 "Gunasheela Surgicals And Maternity 
 Hospital",BANGALORE,KARNATAKA,4.1,536,"WHRG+3H Bengaluru, Karnataka"
-H. K. Hospital,Bangalore,KARNATAKA,4.0,147,"WF5H+C9 Bengaluru, Karnataka"
+H. K. Hospital,Bangalore,KARNATAKA,4,147,"WF5H+C9 Bengaluru, Karnataka"
 Hitech Kidney Stone Hospital,BANGALORE,KARNATAKA,3.9,36,"XHQJ+39 Bengaluru, Karnataka"
 "Fortis International Hospital Ltd 
 Rajajinagar",BANGALORE,KARNATAKA,4.6,2863,"2G2X+VJ Bengaluru, Karnataka"
-J P Hospital (Nelamngala),Bangalore,KARNATAKA,3.3,32,
+J P Hospital (Nelamngala),Bangalore,KARNATAKA,3.3,32,"39WW+XP5 Bengaluru, Karnataka"
 K L Hospitals Pvt Ltd,Bangalore,KARNATAKA,1.8,8,"2MCH+97 Bengaluru, Karnataka"
 KK Hospital,BANGALORE,KARNATAKA,4.1,662,"3HWQ+RQ Bengaluru, Karnataka"
 "Kangaroo Care Maternity And Children 
-Hospital",BANGALORE,KARNATAKA,4.2,2356,
+Hospital",BANGALORE,KARNATAKA,4.2,2356,"XGFR+MWJ Bengaluru, Karnataka"
 Karanth Speciality Hospital,Bangalore,KARNATAKA,4.7,1184,"VJM3+Q7 Bengaluru, Karnataka"
-Kethams Hospital Pvt Ltd (Bangalore),Bangalore,KARNATAKA,2.6,197,
+Kethams Hospital Pvt Ltd (Bangalore),Bangalore,KARNATAKA,2.6,197,"3H95+F8W Bengaluru, Karnataka"
 Kims Hospital And Research Centre,Bangalore,KARNATAKA,3.1,320,"XH4F+JR Bengaluru, Karnataka"
 Koshys Hospital ( Bangalore),BANGALORE,KARNATAKA,4.1,2374,"2MCG+7C Bengaluru, Karnataka"
 Leela Hospital And Diagnostic Center,Bangalore,KARNATAKA,3.7,7,"2H29+3Q Bengaluru, Karnataka"
@@ -27,13 +27,13 @@ Leena Multispeciality Hospital,BANGALORE,KARNATAKA,3.9,183,"6PV7+37 Devanahalli,
 Maharaja Agrasen Hospital Banglore,BANGALORE,KARNATAKA,4.1,778,"WH84+92 Padmanabhanagar, Bengaluru, Karnataka"
 "Maiya Multyspeciality Hospital (Bangalore 
 )",Bangalore,KARNATAKA,4.3,369,"WHVP+26 Bengaluru, Karnataka"
-Mamatha Hospital,Bangalore,KARNATAKA,3.0,85,"WHCR+5W Bengaluru, Karnataka"
+Mamatha Hospital,Bangalore,KARNATAKA,3,85,"WHCR+5W Bengaluru, Karnataka"
 Manasa Hospital(Gauribidanur),Bangalore,KARNATAKA,3.3,100,"JG47+FP Gauribidanur, Karnataka"
 Dr Malathi Manipal Hospital,BANGALORE,KARNATAKA,4.7,9587,"WH8R+VP Bengaluru, Karnataka"
 Manipal Hospital North Side,BANGALORE,KARNATAKA,4.6,1786,"2H27+CH Bengaluru, Karnataka"
 Manipal Hospital Pvt Ltd - Whitefield,BANGALORE,KARNATAKA,4.6,18995,"XP5W+75 Bengaluru, Karnataka"
 Mathru Hospital,Bangalore,KARNATAKA,4.3,281,"VGMW+3G Bengaluru, Karnataka"
-Medcare Hospital,BANGALORE,KARNATAKA,4.0,132,"XH3F+6M Bengaluru, Karnataka"
+Medcare Hospital,BANGALORE,KARNATAKA,4,132,"XH3F+6M Bengaluru, Karnataka"
 Mediscope Hospital,BANGALORE,KARNATAKA,4.4,662,"2J68+FF Bengaluru, Karnataka"
 Medsol Hospital,BANGALORE,KARNATAKA,,,"WJC8+3G Bengaluru, Karnataka"
 Medstar Speciality Hospital,BANGALORE,KARNATAKA,4.4,1315,"3H5P+6F Bengaluru, Karnataka"
@@ -47,7 +47,7 @@ Narayana Multispeciality Hospital,BANGALORE,KARNATAKA,4.5,11764,"WJ5V+6C Bengalu
 (Banglore)",Bangalore,KARNATAKA,4.1,943,"2H59+99 Bengaluru, Karnataka"
 "Navachethana Hospital(A Unit Of Pan 
 Asia Hospital Pvt.Ltd)",BANGALORE,KARNATAKA,3.9,1176,"4H3M+GF Bengaluru, Karnataka"
-Nayak Hospital,BANGALORE,KARNATAKA,3.0,57,"XHX6+P7 Bengaluru, Karnataka"
+Nayak Hospital,BANGALORE,KARNATAKA,3,57,"XHX6+P7 Bengaluru, Karnataka"
 "Nethradhama Hospital Pvt Ltd 
 Rajajinagar",BANGALORE,KARNATAKA,4.8,1527,"XHX2+29 Bengaluru, Karnataka"
 Nu Hospitals Pvt Ltd,BANGALORE,KARNATAKA,4.8,4363,"WH94+69 Bengaluru, Karnataka"
@@ -58,12 +58,12 @@ People Tree Hospitals,BANGALORE,KARNATAKA,4.5,4337,"2GHQ+GQ Bengaluru, Karnataka
 Sree Saiprasad Multispeciality Hospital,BANGALORE,KARNATAKA,3.6,54,"3HXG+9X Bengaluru, Karnataka"
 Prasad Hospital (Bangalore),Bangalore,KARNATAKA,4.2,155,"3GRP+F6 Bengaluru, Karnataka"
 Pristine Hospital(Bangalore),BANGALORE,KARNATAKA,4.2,466,"XGXV+67 Bengaluru, Karnataka"
-Pro Care Hospital,BANGALORE,KARNATAKA,5.0,2,"2MC2+3J Bengaluru, Karnataka"
+Pro Care Hospital,BANGALORE,KARNATAKA,5,2,"2MC2+3J Bengaluru, Karnataka"
 Prolife Multispeciality Hospital,BANGALORE,KARNATAKA,4.5,1032,"3H7V+XF Bengaluru, Karnataka"
 Punya Hospital,BANGALORE,KARNATAKA,4.3,1141,"XGPP+CX Bengaluru, Karnataka"
 Punya Hospital India Pvt Ltd,BANGALORE,KARNATAKA,4.3,1141,"XGPP+CX Bengaluru, Karnataka"
 "Rajarajeswari Medical College And 
-Hospital(Bfangalore)",Bangalore,KARNATAKA,4.0,2267,"VFV7+H7 Kambipura, Karnataka"
+Hospital(Bfangalore)",Bangalore,KARNATAKA,4,2267,"VFV7+H7 Kambipura, Karnataka"
 Rajashri Grandhim Speciality Hospital,BANGALORE,KARNATAKA,4.3,458,"VJW5+52 Bengaluru, Karnataka"
 Rajnandini Hospital,Bangalore,KARNATAKA,2.3,103,"VHMC+R3 Bengaluru, Karnataka"
 "Raksha Multispeciality 
@@ -75,9 +75,9 @@ S. K. Hospital,Bangalore,KARNATAKA,3.3,100,"XG49+W9 Bengaluru, Karnataka"
 S.G. Hospital,Bangalore,KARNATAKA,3.9,32,"WGHW+28 Bengaluru, Karnataka"
 Sagar Chandramma Hospital,BANGALORE,KARNATAKA,3.7,312,"WHXF+FV Bengaluru, Karnataka"
 Sagar Hospital ( Banagalore ),BANGALORE,KARNATAKA,4.4,3492,"WH57+6X Bengaluru, Karnataka"
-Sahana Hospital,Bangalore,KARNATAKA,5.0,1,"2G8V+HC Bengaluru, Karnataka"
+Sahana Hospital,Bangalore,KARNATAKA,5,1,"2G8V+HC Bengaluru, Karnataka"
 Sanjeevini Hospital(Bangalore),BANGALORE,KARNATAKA,4.5,2018,"2G6V+MH Bengaluru, Karnataka"
-Sarojini Hospital,BANGALORE,KARNATAKA,4.0,83,"2GR3+CV Bengaluru, Karnataka"
+Sarojini Hospital,BANGALORE,KARNATAKA,4,83,"2GR3+CV Bengaluru, Karnataka"
 "Sathya Sai Orthopaedic And 
 Multispeciality Hospital",BANGALORE,KARNATAKA,4.7,4761,"2PC7+J4 Bengaluru, Karnataka"
 Sevakshetra Hospital,Bangalore,KARNATAKA,3.3,354,"WHCC+JV Bengaluru, Karnataka"
@@ -87,27 +87,27 @@ Shekhar Hospital,BANGALORE,KARNATAKA,4.4,413,"WHW8+8X Bengaluru, Karnataka"
 Shirdi Sai Hospital Pvt Ltd,BANGALORE,KARNATAKA,3.2,212,"2HP7+WX Bengaluru, Karnataka"
 Shiva Shakti Multispeciality Hospital,BANGALORE,KARNATAKA,3.3,78,"WFRV+97 Bengaluru, Karnataka"
 Shreya Hospital(Bang),BANGALORE,KARNATAKA,4.1,726,"WFCM+H7 Bengaluru, Karnataka"
-Shushrusha Hospital,BANGALORE,KARNATAKA,4.0,622,"3HXX+V6 Bengaluru, Karnataka"
-Sita Bhateja Speciality Hospital,Bangalore,KARNATAKA,5.0,1,"XHMV+9V Bengaluru, Karnataka"
+Shushrusha Hospital,BANGALORE,KARNATAKA,4,622,"3HXX+V6 Bengaluru, Karnataka"
+Sita Bhateja Speciality Hospital,Bangalore,KARNATAKA,5,1,"XHMV+9V Bengaluru, Karnataka"
 South City Hospital,BANGALORE,KARNATAKA,4.2,161,"WHXJ+V3 Bengaluru, Karnataka"
 Sparsh Hospital (Bangalore),BANGALORE,KARNATAKA,,,
 Sparsh Hospital For Advanced Surgeries,BANGALORE,KARNATAKA,4.7,675,"XHMV+8W Bengaluru, Karnataka"
 "Sparsh Super Speciality Hospital 
 Yeshwanthpur",BANGALORE,KARNATAKA,4.7,11513,"2GHV+35 Bengaluru, Karnataka"
 Sri Lakshmi Hospital,BANGALORE,KARNATAKA,4.5,570,
-Sree Venkateshwara Speciality Hospital,Bangalore,KARNATAKA,5.0,1,"WMW6+M5 Bengaluru, Karnataka"
+Sree Venkateshwara Speciality Hospital,Bangalore,KARNATAKA,5,1,"WMW6+M5 Bengaluru, Karnataka"
 "Sree Vijayalakshmi Hospital And Trauma 
 Care Centre",Bangalore,KARNATAKA,3.8,92,"2JPR+X9 Bengaluru, Karnataka"
 Sreenivasa Hospital,Bangalore,KARNATAKA,3.6,146,"XHFF+72 Bengaluru, Karnataka"
 Sri Maruthi Hospital,BANGALORE,KARNATAKA,3.9,79,"XHVF+3M Bengaluru, Karnataka"
-Sri Raghavendra Hospital,Bangalore,KARNATAKA,5.0,3,
+Sri Raghavendra Hospital,Bangalore,KARNATAKA,5,3,
 Sri Sai Krupa Hospital,Bangalore,KARNATAKA,4.5,98,"3H5J+MP Bengaluru, Karnataka"
 Sri Sai Ram Hospital,BANGALORE,KARNATAKA,4.1,419,"VHV9+P8 Bengaluru, Karnataka"
 "Sri Shankara Cancer Hospital And 
 Research Centre",BANGALORE,KARNATAKA,4.1,1019,"XH3C+JF Bengaluru, Karnataka"
 Sri Srinivasa Hospital (Anekal),Bangalore,KARNATAKA,4.4,23,"PM5X+Q8 Anekal, Karnataka"
 Sri Venkateshwara Hospital (Bangalore),Bangalore,KARNATAKA,2.7,71,"WJR3+X2 Bengaluru, Karnataka"
-Srinivasa Hospital (Hoskote Twon),Bangalore,KARNATAKA,3.0,122,"3QFP+J6 Hoskote, Karnataka"
+Srinivasa Hospital (Hoskote Twon),Bangalore,KARNATAKA,3,122,"3QFP+J6 Hoskote, Karnataka"
 St. Philomena'S Hospital,Bangalore,KARNATAKA,3.7,837,"XJ86+4C Bengaluru, Karnataka"
 Suguna Hospital,BANGALORE,KARNATAKA,4.7,8150,"XHQ6+72 Bengaluru, Karnataka"
 Sun Orthopaedic Hospital,BANGALORE,KARNATAKA,4.9,1848,"2HM3+8X Bengaluru, Karnataka"
@@ -115,7 +115,7 @@ Sun Orthopaedic Hospital,BANGALORE,KARNATAKA,4.9,1848,"2HM3+8X Bengaluru, Karnat
 Care Llp)",BANGALORE,KARNATAKA,3.6,1660,
 T.R.Hospital,Bangalore,KARNATAKA,2.7,110,"VHJM+7P Bengaluru, Karnataka"
 The Life Plus Hospital,BANGALORE,KARNATAKA,4.6,1762,"XJGW+8R Bengaluru, Karnataka"
-Trinity Hospital And Heart Foudation,BANGALORE,KARNATAKA,4.0,351,"WHVH+CP Bengaluru, Karnataka"
+Trinity Hospital And Heart Foudation,BANGALORE,KARNATAKA,4,351,"WHVH+CP Bengaluru, Karnataka"
 Udhbhava Hospital,Bangalore,KARNATAKA,2.8,220,"WGGX+7C Bengaluru, Karnataka"
 V Care Hospital,Bangalore,KARNATAKA,2.9,627,"2H8W+9W Bengaluru, Karnataka"
 V P Magnus Hospital-Bangalore,Bangalore,KARNATAKA,3.6,148,"3CR5+5F Nelamangala Town, Karnataka"
@@ -138,16 +138,16 @@ Sri Ram Hospital,BANGALORE,KARNATAKA,4.7,1894,"2M5V+FH Bengaluru, Karnataka"
 Gangothri Hospital,BANGALORE,KARNATAKA,2.1,230,"WJ87+HG Bengaluru, Karnataka"
 Marvel Multispecialty Hospital,BANGALORE,KARNATAKA,4.2,1035,"WJGP+59 Bengaluru, Karnataka"
 Sreenagar Hospital,BANGALORE,KARNATAKA,3.4,53,"WHV4+P4 Bengaluru, Karnataka"
-HK Hospital,BANGALORE,KARNATAKA,4.0,147,"WF5H+C9 Bengaluru, Karnataka"
+HK Hospital,BANGALORE,KARNATAKA,4,147,"WF5H+C9 Bengaluru, Karnataka"
 Manjunath Hospital,BANGALORE,KARNATAKA,3.9,198,"WHXV+8H Bengaluru, Karnataka"
 Manjushree Hospital,BANGALORE,KARNATAKA,4.4,129,"XJM6+2X Bengaluru, Karnataka"
-Radhakrishna Multispeciality Hospital,BANGALORE,KARNATAKA,4.0,548,"WGRW+96 Bengaluru, Karnataka"
+Radhakrishna Multispeciality Hospital,BANGALORE,KARNATAKA,4,548,"WGRW+96 Bengaluru, Karnataka"
 Life Care Hospital,BANGALORE,KARNATAKA,4.4,2044,"WJ97+P5 Bengaluru, Karnataka"
 Vijayshree Hospital,BANGALORE,KARNATAKA,3.2,355,"VH5Q+4P Bengaluru, Karnataka"
 Vimalalaya Hospital,BANGALORE,KARNATAKA,3.3,566,"RMMJ+X4 Bengaluru, Karnataka"
 Ayurvaid Hospitals,BANGALORE,KARNATAKA,4.6,759,"WJ8P+HG Bengaluru, Karnataka"
 Sri Lakshmi Multispecialty Hospital,BANGALORE,KARNATAKA,4.5,570,
-Mamatha Hospital,BANGALORE,KARNATAKA,3.0,85,"WHCR+5W Bengaluru, Karnataka"
+Mamatha Hospital,BANGALORE,KARNATAKA,3,85,"WHCR+5W Bengaluru, Karnataka"
 Blossom Multispecialty Hospital,BANGALORE,KARNATAKA,3.4,8,"VMC5+5Q Bengaluru, Karnataka"
 Rajshekar Hospital,BANGALORE,KARNATAKA,4.2,951,"WH6H+CV Bengaluru, Karnataka"
 People Tree Hospitals (Raghavendra),BANGALORE,KARNATAKA,4.6,2239,"2GR8+X6 Bengaluru, Karnataka"
@@ -166,8 +166,8 @@ Bhagwan Mahaveer Jain Hospital,BANGALORE,KARNATAKA,4.5,6220,"XHRW+J2 Bengaluru, 
 Rajmahal Vilas Hospital,BANGALORE,KARNATAKA,3.7,350,"2HJG+WQ Bengaluru, Karnataka"
 Divakars Speciality Hospital,BANGALORE,KARNATAKA,4.6,813,"WH6R+2X Bengaluru, Karnataka"
 AV Multispeciality Hospital,BANGALORE,KARNATAKA,3.9,580,"WGMR+3C Bengaluru, Karnataka"
-R K Hospital,BANGALORE,KARNATAKA,4.0,766,"WHPM+H8 Bengaluru, Karnataka"
-Hamilton Bailey Hospital,BANGALORE,KARNATAKA,4.0,161,"WJ2X+8F Bengaluru, Karnataka"
+R K Hospital,BANGALORE,KARNATAKA,4,766,"WHPM+H8 Bengaluru, Karnataka"
+Hamilton Bailey Hospital,BANGALORE,KARNATAKA,4,161,"WJ2X+8F Bengaluru, Karnataka"
 Abhayahasta Multispeciality Hospital,BANGALORE,KARNATAKA,3.6,1150,"XMPC+5X Bengaluru, Karnataka"
 "Bangalore Surgical And Orthopaedic 
 Hospital",BANGALORE,KARNATAKA,4.2,275,"2JCQ+MC Bengaluru, Karnataka"
@@ -183,11 +183,11 @@ Pavan Hospital,BANGALORE,KARNATAKA,4.2,200,"3HXW+6F Bengaluru, Karnataka"
 Motherhood Hospital,BANGALORE,KARNATAKA,4.9,112,"3J7X+J5 Bengaluru, Karnataka"
 HBS Hospital,BANGALORE,KARNATAKA,3.5,361,"XJQ3+PF Bengaluru, Karnataka"
 Athreya Hospital,BANGALORE,KARNATAKA,3.9,1114,"QPV4+RP Bengaluru, Karnataka"
-Pinnacle Hospital,BANGALORE,KARNATAKA,3.0,1,"WHFC+86 Bengaluru, Karnataka"
+Pinnacle Hospital,BANGALORE,KARNATAKA,3,1,"WHFC+86 Bengaluru, Karnataka"
 Prakriya Hospital,BANGALORE,KARNATAKA,4.4,3513,"2GW4+CJ Bengaluru, Karnataka"
 Chiraayu Hospital,BANGALORE,KARNATAKA,4.6,237,"2H5V+PX Bengaluru, Karnataka"
 Atreum Hospital,BANGALORE,KARNATAKA,4.7,2154,"WGJ8+X8 Bengaluru, Karnataka"
-Leelavatti Multispeciality Hospital,BANGALORE,KARNATAKA,4.0,185,"XH59+R4 Bengaluru, Karnataka"
+Leelavatti Multispeciality Hospital,BANGALORE,KARNATAKA,4,185,"XH59+R4 Bengaluru, Karnataka"
 Mtb Orthopaedic And Trauma Hospital,BANGALORE,KARNATAKA,4.2,152,
 Digvijaya Hospital,BANGALORE,KARNATAKA,3.6,96,"WHHG+VH Bengaluru, Karnataka"
 Somayaji Hospital,BANTWAL,KARNATAKA,3.2,69,"V2JJ+XQ Mangaluru, Karnataka"
@@ -204,7 +204,7 @@ Venugram Hospital,BELGUAM,KARNATAKA,4.2,414,"RFGW+8X Belagavi, Karnataka"
 "Belgaum College Road Multispeciality 
 Hospital",BELGUAM,KARNATAKA,4.6,178,"VG65+V2 Belagavi, Karnataka"
 Jindal Sanjeevani Hospital,BELLARY,KARNATAKA,3.6,270,"5MW5+GH Shankar Hill Town, Karnataka"
-Sree Thirumala Hospital,Bellary,KARNATAKA,3.0,6,"5W5Q+G5 Ballari, Karnataka"
+Sree Thirumala Hospital,Bellary,KARNATAKA,3,6,"5W5Q+G5 Ballari, Karnataka"
 SR Multispeciality Hospital Subba Rao,BELLARY,KARNATAKA,4.3,218,"4WW3+JM Ballari, Karnataka"
 Prayavi Hospital,Bidar,KARNATAKA,3.1,46,
 Sai Preet Bhalke Vydehi Hospital,BIDAR,KARNATAKA,3.8,189,"WG95+F6 Bidar, Karnataka"
@@ -238,7 +238,7 @@ Spandana Hospital,DHARWAD,KARNATAKA,3.4,77,"F222+6W Dharwad, Karnataka"
 Sukh Shanti Super Speciality Hospital S4,GOKAK,KARNATAKA,4.1,38,"5R7V+XX Gokak, Karnataka"
 Sri Sai Krupa Hospital(Gulbarga),Gulbarga,KARNATAKA,3.5,4,
 Vaatsalya Life Hospital,GULBARGA,KARNATAKA,3.3,70,"8RGJ+7H Kalaburagi, Karnataka"
-Medicare Multispeciality Hospital,GULBARGA,KARNATAKA,3.0,78,"8RPV+VM Kalaburagi, Karnataka"
+Medicare Multispeciality Hospital,GULBARGA,KARNATAKA,3,78,"8RPV+VM Kalaburagi, Karnataka"
 Patil Hospital,GULBARGA,KARNATAKA,4.3,22,"8RMQ+WQ Kalaburagi, Karnataka"
 Hemavathi Hospital,Hassan,KARNATAKA,3.2,83,"236W+5R Hassan, Karnataka"
 Janapriya Hospital And Research Centre,HASSAN,KARNATAKA,3.9,614,"2434+MP Hassan, Karnataka"
@@ -295,7 +295,7 @@ Unity Hospital,MANGALORE,KARNATAKA,3.8,66,
 Sorake Chandra Shekar Hospitals (SCS),MANGALORE,KARNATAKA,3.8,66,
 JSS Hospital,MYSORE,KARNATAKA,,,
 "Annapoorna Orthopaedic And Speciality 
-Hospital",Mysore,KARNATAKA,5.0,13,
+Hospital",Mysore,KARNATAKA,5,13,
 Basappa Memorial Hospital,Mysore,KARNATAKA,3.7,51,"8JCC+82 Mysuru, Karnataka"
 Apollo BGS Hospital(Mysore),MYSORE,KARNATAKA,4.9,35058,"7JWM+92 Mysuru, Karnataka"
 Bhanavi Hospital,MYSORE,KARNATAKA,4.2,950,"7JVG+4V Mysuru, Karnataka"
@@ -306,7 +306,7 @@ Columbia Asia Hospitals(Mysore),MYSORE,KARNATAKA,4.7,6991,"8MX6+X3 Mysuru, Karna
 Hospital( Nazarbad Medical Services Pvt 
 L",MYSORE,KARNATAKA,4.4,607,
 Holy Cross Hospital,MYSORE,KARNATAKA,3.9,530,"46HM+VG Kollegala, Karnataka"
-Kamakshi Hospital,MYSORE,KARNATAKA,3.0,445,"7JXF+WF Mysuru, Karnataka"
+Kamakshi Hospital,MYSORE,KARNATAKA,3,445,"7JXF+WF Mysuru, Karnataka"
 Karuna Hospital(Mysore),Mysore,KARNATAKA,3.8,55,"7JHG+W4 Mysuru, Karnataka"
 "Narayana Hrudayalaya Surgical Hospital 
 Pvt Ltd",MYSORE,KARNATAKA,4.9,31230,"8MWF+36 Mysuru, Karnataka"
@@ -317,7 +317,7 @@ Vidyaranya Hospital Pvt Ltd,Mysore,KARNATAKA,3.4,63,"7JQX+FR Mysuru, Karnataka"
 Shakthi Hill View Hospital,MYSORE,KARNATAKA,3.8,58,"8M2V+J8 Mysuru, Karnataka"
 Chandrakala Hospital,MYSORE,KARNATAKA,2.8,134,"8JG9+7R Mysuru, Karnataka"
 Sigma Hospital,MYSORE,KARNATAKA,4.7,3196,"8J2F+4J Mysuru, Karnataka"
-Sundargiri Hospital,MYSORE,KARNATAKA,5.0,1,"4M9H+QX Nanjangud, Karnataka"
+Sundargiri Hospital,MYSORE,KARNATAKA,5,1,"4M9H+QX Nanjangud, Karnataka"
 Aishwarya Hospital,MYSORE,KARNATAKA,3.2,160,"8JF5+7P Mysuru, Karnataka"
 Brindavan Hospital,MYSORE,KARNATAKA,4.2,879,"8JFG+6Q Mysuru, Karnataka"
 Amrita Kripa Hospital,MYSORE,KARNATAKA,4.1,83,"7HRM+X4 Mysuru, Karnataka"
@@ -344,18 +344,18 @@ Kasturba Hospital Tumkur,TUMKUR,KARNATAKA,4.8,803,"84J7+W5 Tumakuru, Karnataka"
 Shridevi Hospital,TUMKUR,KARNATAKA,3.4,78,"84Q3+PR Tumakuru, Karnataka"
 Vijaya Hospital (Kunigal Road),TUMKUR,KARNATAKA,2.5,19,"83MW+29 Tumakuru, Karnataka"
 Vinayaka Hospital Tumkur,TUMKUR,KARNATAKA,4.6,1043,"84P9+Q5 Tumakuru, Karnataka"
-Sree Siddaganga Hospitals Pvt Ltd,TUMKUR,KARNATAKA,4.0,884,"84Q8+72 Tumakuru, Karnataka"
+Sree Siddaganga Hospitals Pvt Ltd,TUMKUR,KARNATAKA,4,884,"84Q8+72 Tumakuru, Karnataka"
 MM Multispecialty Hospital,TUMKUR,KARNATAKA,4.3,126,
 B Siddaramanna Hospital,TUMKUR,KARNATAKA,3.7,45,"84P2+5M Tumakuru, Karnataka"
-Surya Hospital,TUMKUR,KARNATAKA,4.0,51,"83RW+8R Tumakuru, Karnataka"
+Surya Hospital,TUMKUR,KARNATAKA,4,51,"83RW+8R Tumakuru, Karnataka"
 THS Superspeciality Hospital,TUMKUR,KARNATAKA,3.1,105,"83RV+VQ Tumakuru, Karnataka"
 Aruna Hospital Tumkur,TUMKUR,KARNATAKA,4.2,406,"84P5+XF Tumakuru, Karnataka"
 Sukrutha Hospital,TUMKUR,KARNATAKA,4.7,18,"848G+VR Tumakuru, Karnataka"
 Nandi Hospital,TUMKUR,KARNATAKA,,,
-Madilu Hospital,TUMKUR,KARNATAKA,3.0,117,"84Q6+XC Tumakuru, Karnataka"
+Madilu Hospital,TUMKUR,KARNATAKA,3,117,"84Q6+XC Tumakuru, Karnataka"
 Sarvodaya Multi Speciality Hospital,TUMKUR,KARNATAKA,3.3,13,
 Adarsha Hospital,UDUPI,KARNATAKA,4.5,3784,"8PRW+2X Udupi, Karnataka"
-City Hospital ( Udupi),UDUPI,KARNATAKA,4.0,161,"8PQW+MH Udupi, Karnataka"
+City Hospital ( Udupi),UDUPI,KARNATAKA,4,161,"8PQW+MH Udupi, Karnataka"
 "Hitech Medicare Hospitaland Research 
 Centre",UDUPI,KARNATAKA,4.5,1290,"8PQP+4R Udupi, Karnataka"
 Kasturba Hospital (Udipi),Udupi,KARNATAKA,3.7,1715,"9Q3Q+6M Manipal, Karnataka"
@@ -366,7 +366,7 @@ National Hospital (Calicut),CALICUT,KERALA,3.9,592,"7Q5J+HF Kozhikode, Kerala"
 Pvs Hospital,CALICUT,KERALA,3.9,1047,"6QVM+36 Kozhikode, Kerala"
 Meitra Hospital,CALICUT,KERALA,4.5,4031,"8Q2G+P3 Kozhikode, Kerala"
 Koyas Hospital,CALICUT,KERALA,3.3,289,"5RPH+XV Cheruvannur, Kerala"
-PS Mission Hospital,COCHIN,KERALA,4.0,511,"W8QF+43 Kochi, Kerala"
+PS Mission Hospital,COCHIN,KERALA,4,511,"W8QF+43 Kochi, Kerala"
 "Bharath Rural Hospital And Trining 
 Centre",ERNAKULAM,KERALA,3.6,40,
 Lakeshore Hospital And Research Centre,ERNAKULAM,KERALA,4.5,6400,"W899+HH Kochi, Kerala"
@@ -385,19 +385,19 @@ Krishna Hospital ( Cochin),KOCHI,KERALA,3.6,203,"X7GP+24 Ernakulam, Kerala"
 Rajagiri Hospital Kochi,KOCHI,KERALA,4.7,15543,"39QQ+27 Kochi, Kerala"
 Specialists Hospital,KOCHI,KERALA,4.3,524,"X7RP+58 Kochi, Kerala"
 VG Saraf Memorial Hospital,KOCHI,KERALA,4.3,301,"X76Q+J4 Kochi, Kerala"
-Indira Gandhi Co-Operative Hospital,KOCHI,KERALA,4.0,873,"X79X+CF Kochi, Kerala"
+Indira Gandhi Co-Operative Hospital,KOCHI,KERALA,4,873,"X79X+CF Kochi, Kerala"
 Lisie Hospital,KOCHI,KERALA,3.6,2345,"X7QQ+F6 Ernakulam, Kerala"
 Jacobs Hospital,KOCHI,KERALA,3.7,133,"W7P4+J6 Kochi, Kerala"
 Kinder Multispeciality Hospital,KOCHI,KERALA,4.6,6027,"28Q8+8P Kochi, Kerala"
 Dr Nairs Hospital,KOLLAM,KERALA,3.9,360,"VHWX+3H Kollam, Kerala"
-Kims Kollam Multi Specialtiy Hospital,KOLLAM,KERALA,4.0,890,"VM7J+VG Kottiyam, Kerala"
+Kims Kollam Multi Specialtiy Hospital,KOLLAM,KERALA,4,890,"VM7J+VG Kottiyam, Kerala"
 Upasana Hospital,KOLLAM,KERALA,3.3,221,"VHQW+8P Kollam, Kerala"
 Mitera Hospital,KOTTAYAM,KERALA,4.2,478,"JGXW+4X Ettumanoor, Kerala"
 Kims Multispeciality Hospital (Kottayam),KOTTAYAM,KERALA,4.2,1120,"JGF9+F5 Kudamaloor, Kerala"
 Asten Specialty Orthopaedic Hospital,KOZHIKODE,KERALA,4.3,537,"6VJ2+MH Pantheeramkavu, Kerala"
 Baby Memorial Hospital,KOZHIKODE,KERALA,4.2,3523,"7Q6V+22 Kozhikode, Kerala"
 Starcare Hospital Kozhikode Pvt Ltd,KOZHIKODE,KERALA,,,
-Moulana Hospital,MALLAPURAM,KERALA,4.0,1154,"X6HG+VC Perinthalmanna, Kerala"
+Moulana Hospital,MALLAPURAM,KERALA,4,1154,"X6HG+VC Perinthalmanna, Kerala"
 "Korambayil Hospital And Diagnostic 
 Centre Pvt Ltd",MANJERI,KERALA,3.2,304,"44FG+48 Manjeri, Kerala"
 Ahalia Diabets Hospital,Palakkad,KERALA,4.3,246,"QRRH+P2 Kozhippara, Kerala"
@@ -420,7 +420,7 @@ B.S.Sacklecha Hospital,Bhopal,MADHYA PRADESH,3.7,42,"5FF6+66 Bhopal, Madhya Prad
 Galaxy Hospital,Bhopal,MADHYA PRADESH,4.8,741,"5CCC+HW Bhopal, Madhya Pradesh"
 "Ganga Multispeciality Hospital And 
 Maternity Home",BHOPAL,MADHYA PRADESH,3.6,22,"4G45+7R Bhopal, Madhya Pradesh"
-Gayatri Hospital And Trauma Centre,Bhopal,MADHYA PRADESH,4.0,152,"6FXQ+J8 Bhopal, Madhya Pradesh"
+Gayatri Hospital And Trauma Centre,Bhopal,MADHYA PRADESH,4,152,"6FXQ+J8 Bhopal, Madhya Pradesh"
 Noble Multi Speciality Hospital (Bhopal),Bhopal,MADHYA PRADESH,4.3,949,"5F6C+H9 Bhopal, Madhya Pradesh"
 RJN Apollo Spectra Hospitals,GWALIOR,MADHYA PRADESH,4.7,6457,"659C+WH Gwalior, Madhya Pradesh"
 Bimr Hospitals,GWALIOR,MADHYA PRADESH,3.6,758,"66P9+49 Gwalior, Madhya Pradesh"
@@ -441,7 +441,7 @@ Greater Kailash Hospital,INDORE,MADHYA PRADESH,3.1,204,"PVGQ+3Q New Palasia, Ind
 Global Sng Hospital,INDORE,MADHYA PRADESH,4.1,185,"PVCJ+4J Indore, Madhya Pradesh"
 Gokuldas Hospital And Research Centre,INDORE,MADHYA PRADESH,3.6,425,"PV8G+JC Indore, Madhya Pradesh"
 Life Care Hospital Indore,INDORE,MADHYA PRADESH,4.4,856,"QV6M+WJ Indore, Madhya Pradesh"
-Mayur Hospital And Research Centre,INDORE,MADHYA PRADESH,3.0,183,"PWF4+W9 Indore, Madhya Pradesh"
+Mayur Hospital And Research Centre,INDORE,MADHYA PRADESH,3,183,"PWF4+W9 Indore, Madhya Pradesh"
 Medi Square Super Speciality Hospital,INDORE,MADHYA PRADESH,4.6,657,"MVR7+6V Indore, Madhya Pradesh"
 Mohak HiTech Speciality Hospital,INDORE,MADHYA PRADESH,4.1,164,"QRXV+FX Bhawrasla, Indore, Madhya Pradesh"
 Noble Hospital And Intensive Care Unit,INDORE,MADHYA PRADESH,4.4,387,"MWRJ+27 Indore, Madhya Pradesh"
@@ -459,13 +459,13 @@ Mewar Hospital Pvt Ltd(Shehdol),SHAHDOL,MADHYA PRADESH,4.6,130,"79WC+5C Shahdol,
 Mewar Hospital Pvt Ltd (Dhar),UJJAIN,MADHYA PRADESH,4.5,38,"339F+HP Mandsaur, Madhya Pradesh"
 Mewar Hospital Pvt Ltd (Ujjain),UJJAIN,MADHYA PRADESH,3.9,38,"5QGR+CV Ujjain, Madhya Pradesh"
 Aarogyam Agrawal Hospital,AHMEDNAGAR,MAHARASHTRA,2.9,181,"4P7J+FQ Ahmednagar, Maharashtra"
-Balaji Paediatric And Dental Hospital,AHMEDNAGAR,MAHARASHTRA,4.0,70,"3PVP+HJ Ahmednagar, Maharashtra"
+Balaji Paediatric And Dental Hospital,AHMEDNAGAR,MAHARASHTRA,4,70,"3PVP+HJ Ahmednagar, Maharashtra"
 "Advanced ENT & Multispeciality Hospital 
 Pvt Ltd",AURANGABAD,MAHARASHTRA,3.8,126,"V982+R2 Chhatrapati Sambhajinagar (Aurangabad), Maharashtra"
 Apex Superspeciality Hospital,Aurangabad,MAHARASHTRA,3.7,322,"V8JW+FV Chhatrapati Sambhajinagar (Aurangabad), Maharashtra"
 Sanjeevani Childrens Hospital,Aurangabad,MAHARASHTRA,4.3,118,"V8FP+WC Chhatrapati Sambhajinagar (Aurangabad), Maharashtra"
 Giriraj Hospital,Baramati,MAHARASHTRA,,,
-Bhatwal Surgical And Maternity Hospital,DHULE,MAHARASHTRA,5.0,3,"VQPC+CW Dhule, Maharashtra"
+Bhatwal Surgical And Maternity Hospital,DHULE,MAHARASHTRA,5,3,"VQPC+CW Dhule, Maharashtra"
 Bhirud Hospital,JALGAON,MAHARASHTRA,,,
 Ruby Hospital & Critical Care,JALGAON,MAHARASHTRA,3.6,46,"2H35+2F Jalgaon, Maharashtra"
 Warkad Hospital,JALNA,MAHARASHTRA,4.1,88,"VV5Q+F9 Jalna, Maharashtra"
@@ -475,7 +475,7 @@ City Criticare Hospital,KALYAN,MAHARASHTRA,3.9,255,"64RV+9Q Kalyan, Maharashtra"
 "Dr CB Vaidya Memorial Hospital(M/S S S 
 Vaidhya Health Care Centre)",KALYAN,MAHARASHTRA,3.2,73,
 Shivam Hospital (Dombivili),KALYAN,MAHARASHTRA,,,
-Spectrum Hospital(Thane),KALYAN,MAHARASHTRA,3.0,1,"64WH+53 Mumbai, Maharashtra"
+Spectrum Hospital(Thane),KALYAN,MAHARASHTRA,3,1,"64WH+53 Mumbai, Maharashtra"
 Star City Multispeciality Hospital Pvt Ltd,KALYAN,MAHARASHTRA,3.2,51,"64FG+RF Kalyan East, Pisavli Village, Maharashtra"
 Saanvi Ent Hospital,KALYAN,MAHARASHTRA,4.2,162,"743P+7G Kalyan West, Kalyan, Maharashtra"
 Sai Swastik Multispeciality Hospital,KALYAN,MAHARASHTRA,3.6,36,"648R+Q5 Chinchpada Gaon, Kalyan, Maharashtra"
@@ -494,7 +494,7 @@ Kokilaben Dhirubhai Ambani Hospital,MUMBAI,MAHARASHTRA,3.5,2699,"4RJG+G2 Mumbai,
 Sarla Hospital And ICU,MUMBAI,MAHARASHTRA,4.1,115,"3RPP+8P Mumbai, Maharashtra"
 Criticare Hospital And Research Centre,MUMBAI,MAHARASHTRA,4.5,5432,"4V92+66 Mumbai, Maharashtra"
 Mallika Hospital,Mumbai,MAHARASHTRA,4.5,748,"4RPW+XM Mumbai, Maharashtra"
-National Hospital,MUMBAI,MAHARASHTRA,3.0,32,"6VJ6+GJ Mumbai, Maharashtra"
+National Hospital,MUMBAI,MAHARASHTRA,3,32,"6VJ6+GJ Mumbai, Maharashtra"
 "Bombay Hospital And Medical Research 
 Centre",MUMBAI,MAHARASHTRA,3.9,1087,"WRRG+CX Mumbai, Maharashtra"
 Sl Raheja Fortis Hospital,MUMBAI,MAHARASHTRA,4.8,5697,"2RWV+G3 Mumbai, Maharashtra"
@@ -510,7 +510,7 @@ Sumangal Hospital,Mumbai,MAHARASHTRA,4.3,76,"6R2H+R5 Mumbai, Maharashtra"
 Riddhi Siddhi Hospital Pvt Ltd,MUMBAI,MAHARASHTRA,3.6,58,"7VQ8+P6 Mira Bhayandar, Maharashtra"
 Hira Mongi Navneet Hospital,MUMBAI,MAHARASHTRA,4.1,934,"5XC2+C3 Mumbai, Maharashtra"
 Parakh Hospital,MUMBAI,MAHARASHTRA,,,
-Sterling Wockhardt Hospital,MUMBAI,MAHARASHTRA,4.0,1,"3X9P+WW Navi Mumbai, Maharashtra"
+Sterling Wockhardt Hospital,MUMBAI,MAHARASHTRA,4,1,"3X9P+WW Navi Mumbai, Maharashtra"
 Bhatia General Hospital,MUMBAI,MAHARASHTRA,4.1,947,"XR87+78 Mumbai, Maharashtra"
 "Life Line Hospital And Medical Research 
 Centre",MUMBAI,MAHARASHTRA,4.5,566,"5RRX+35 Mumbai, Maharashtra"
@@ -523,7 +523,7 @@ Dr Balabhai Nanavati Hospital,MUMBAI,MAHARASHTRA,4.2,2266,"3RWR+94 Mumbai, Mahar
 Dr Das Hospital,MUMBAI,MAHARASHTRA,4.6,225,"3V5X+VW Mumbai, Maharashtra"
 Aditi Hospital,MUMBAI,MAHARASHTRA,4.8,2968,"5WCX+QC Mumbai, Maharashtra"
 The Childrens Hospital,MUMBAI,MAHARASHTRA,3.7,426,"5RRM+6X Mumbai, Maharashtra"
-Godrej Memorial Hospital,MUMBAI,MAHARASHTRA,4.0,700,"4W3G+GW Mumbai, Maharashtra"
+Godrej Memorial Hospital,MUMBAI,MAHARASHTRA,4,700,"4W3G+GW Mumbai, Maharashtra"
 Saarthi Hospital,Mumbai,MAHARASHTRA,4.7,258,"4WWM+PW Mumbai, Maharashtra"
 "Modi General Hospital And I.C.C.U ( 
 Vikhroli )",MUMBAI,MAHARASHTRA,3.7,30,"4W8J+94 Mumbai, Maharashtra"
@@ -537,13 +537,13 @@ Sahayog Hospital (Virar),MUMBAI,MAHARASHTRA,3.5,161,"CRW3+QP Virar, Maharashtra"
 "Rg Stone Urology And Laparoscopy 
 Hospital Andheri",Mumbai,MAHARASHTRA,4.2,124,"4RPP+MH Mumbai, Maharashtra"
 "Divine Multispeciality Hospital And 
-Research Centre",MUMBAI,MAHARASHTRA,4.0,82,"42C3+65 Navi Mumbai, Maharashtra"
+Research Centre",MUMBAI,MAHARASHTRA,4,82,"42C3+65 Navi Mumbai, Maharashtra"
 Shah Children Hospital,MUMBAI,MAHARASHTRA,4.6,124,"4WWH+6G Mumbai, Maharashtra"
-Vardhaman Hospital & ICCU,MUMBAI,MAHARASHTRA,5.0,5,"5W2M+9J Mumbai, Maharashtra"
+Vardhaman Hospital & ICCU,MUMBAI,MAHARASHTRA,5,5,"5W2M+9J Mumbai, Maharashtra"
 Platinum Hospital Pvt Ltd,MUMBAI,MAHARASHTRA,4.2,720,"5XM3+3J Mumbai, Maharashtra"
 Apollo Hospitals Enterprise Limited,MUMBAI,MAHARASHTRA,4.7,20442,"22CH+7J Navi Mumbai, Maharashtra"
 Zen Multispeciality Hospital,MUMBAI,MAHARASHTRA,4.5,3103,"3V4W+9P Mumbai, Maharashtra"
-Galaxy Criticare Hospital,MUMBAI,MAHARASHTRA,3.0,74,"63FM+4R Mumbai, Maharashtra"
+Galaxy Criticare Hospital,MUMBAI,MAHARASHTRA,3,74,"63FM+4R Mumbai, Maharashtra"
 Oscar Multispeciality Hospital,MUMBAI,MAHARASHTRA,3.5,370,"6R3H+C5 Mumbai, Maharashtra"
 Apollo Spectra Hospitals Chembur,MUMBAI,MAHARASHTRA,4.6,4063,
 Zenith Hospital (Mumbai),Mumbai,MAHARASHTRA,3.7,616,"5RWM+2J Mumbai, Maharashtra"
@@ -567,19 +567,19 @@ Dna Multispecialty Hospital,MUMBAI,MAHARASHTRA,4.3,353,"5VH5+XX Mumbai, Maharash
 Dr Mukhis Raj Hospital,Mumbai,MAHARASHTRA,4.1,386,"5WGX+FH Mumbai, Maharashtra"
 Dr Bhatia Multispecilaity Hospital,MUMBAI,MAHARASHTRA,4.1,947,"XR87+78 Mumbai, Maharashtra"
 Dr Dipak Desais Ent Hospital,MUMBAI,MAHARASHTRA,4.7,35,"3WJ3+XW Mumbai, Maharashtra"
-All Cure Hospital(Jogeshwar),MUMBAI,MAHARASHTRA,4.0,275,"4VP2+9R Mumbai, Maharashtra"
+All Cure Hospital(Jogeshwar),MUMBAI,MAHARASHTRA,4,275,"4VP2+9R Mumbai, Maharashtra"
 Dr. Shetty'S E.N.T. Hospital,Mumbai,MAHARASHTRA,4.5,110,"5XG3+83 Mumbai, Maharashtra"
 Dr Meena Multispeciality Hospital,MUMBAI,MAHARASHTRA,4.5,283,"4WWJ+WV Mumbai, Maharashtra"
 Fauziya Hospital(Mumbai),MUMBAI,MAHARASHTRA,3.2,226,"3VHJ+W2 Mumbai, Maharashtra"
 "Global Hospital Super Speciality And 
-Transplant Centre",MUMBAI,MAHARASHTRA,4.0,4,"XRXR+Q6 Mumbai, Maharashtra"
+Transplant Centre",MUMBAI,MAHARASHTRA,4,4,"XRXR+Q6 Mumbai, Maharashtra"
 "H.J.Doshi Ghatkopar Hindu Sabha 
 Hospital",Mumbai,MAHARASHTRA,4.5,931,"3WP4+2G Mumbai, Maharashtra"
 Inlaks General Hospital,Mumbai,MAHARASHTRA,3.5,315,"2VWV+FQ Mumbai, Maharashtra"
 "Jaslok Hospital And Medical Research 
 Institute",MUMBAI,MAHARASHTRA,4.8,11027,"XRC5+JX Mumbai, Maharashtra"
 "KJ Somaiya Hospital and Research 
-Centre",MUMBAI,MAHARASHTRA,4.0,872,"2VWF+XV Mumbai, Maharashtra"
+Centre",MUMBAI,MAHARASHTRA,4,872,"2VWF+XV Mumbai, Maharashtra"
 Kolekar Hospital and ICU,MUMBAI,MAHARASHTRA,4.1,454,"3W52+WC Mumbai, Maharashtra"
 Life Line Hospital & Heart Institute,MUMBAI,MAHARASHTRA,4.5,113,"5RVW+FJ Mumbai, Maharashtra"
 Lifeline Medicare Hospital Pvt Ltd,MUMBAI,MAHARASHTRA,4.1,793,"5RFV+PR Mumbai, Maharashtra"
@@ -598,8 +598,8 @@ Radha Krishna Hospital (Goregaon),MUMBAI,MAHARASHTRA,3.8,154,"5VFF+4J Mumbai, Ma
 "Sai Hospital Dharavi ( Sai Medicure 
 Services Pvt Ltd)",Mumbai,MAHARASHTRA,3.9,206,
 Seven Star Multispeciality Hospital,Mumbai,MAHARASHTRA,3.8,297,"6V68+QQ Mumbai, Maharashtra"
-Shalyak Hospital,MUMBAI,MAHARASHTRA,3.0,107,"4VP3+WM Mumbai, Maharashtra"
-Shantiniketan Hospital(Ghatkopar),MUMBAI,MAHARASHTRA,4.0,398,"3WW7+3G Mumbai, Maharashtra"
+Shalyak Hospital,MUMBAI,MAHARASHTRA,3,107,"4VP3+WM Mumbai, Maharashtra"
+Shantiniketan Hospital(Ghatkopar),MUMBAI,MAHARASHTRA,4,398,"3WW7+3G Mumbai, Maharashtra"
 Shraddha Hospital (Dahisar),MUMBAI,MAHARASHTRA,1.8,6,"7V37+9J Mumbai, Maharashtra"
 Shree Ganesha Hospital,MUMBAI,MAHARASHTRA,4.3,472,"6RHW+79 Mumbai, Maharashtra"
 Shreyas Hospital (Vasai Road),MUMBAI,MAHARASHTRA,4.7,347,"9RJH+Q6 Vasai West, Vasai-Virar, Maharashtra"
@@ -610,7 +610,7 @@ Parekh Research Centre",Mumbai,MAHARASHTRA,3.6,44,"3RMQ+83 Mumbai, Maharashtra"
 "Srcc Children'S Hospital(A Unit Of 
 Narayana Hrudayalaya Ltd)",Mumbai,MAHARASHTRA,4.9,12884,"XRH7+Q4 Mumbai, Maharashtra"
 Sun Hospital,MUMBAI,MAHARASHTRA,4.5,170,"5RRR+3P Mumbai, Maharashtra"
-Surana Hospital And Research Center,MUMBAI,MAHARASHTRA,4.0,454,"5RXQ+J9 Mumbai, Maharashtra"
+Surana Hospital And Research Center,MUMBAI,MAHARASHTRA,4,454,"5RXQ+J9 Mumbai, Maharashtra"
 Theji Hospital,MUMBAI,MAHARASHTRA,4.6,30,"5W2M+4F Mumbai, Maharashtra"
 Unnati Hospital And Icu,MUMBAI,MAHARASHTRA,3.5,35,"62M6+XX Bhiwandi, Maharashtra"
 Vardann Multispeciality Hospital,MUMBAI,MAHARASHTRA,4.8,567,"6V62+MJ Mumbai, Maharashtra"
@@ -621,7 +621,7 @@ Lifeline Medicare Hospital Pvt Ltd,MUMBAI,MAHARASHTRA,4.1,793,"5RFV+PR Mumbai, M
 New Medanta Hospital,MUMBAI,MAHARASHTRA,3.8,34,"5X8X+3J Navi Mumbai, Maharashtra"
 "Shanti Nursing Home And Multispeciality 
 Hospital",MUMBAI,MAHARASHTRA,4.7,589,"3R2Q+F6 Mumbai, Maharashtra"
-Sainit Hospital,MUMBAI,MAHARASHTRA,4.0,2,"2R8P+GW Mumbai, Maharashtra"
+Sainit Hospital,MUMBAI,MAHARASHTRA,4,2,"2R8P+GW Mumbai, Maharashtra"
 Ojas Multispeciality Hospital,MUMBAI,MAHARASHTRA,,,"3R4H+3X Mumbai, Maharashtra"
 KLS Memorial Hospital,MUMBAI,MAHARASHTRA,4.4,447,"4R5R+48 Mumbai, Maharashtra"
 Niramay Hospital,MUMBAI,MAHARASHTRA,4.5,11,"6R8J+8Q Mumbai, Maharashtra"
@@ -629,12 +629,12 @@ Pragati Multispeciality Hospital,MUMBAI,MAHARASHTRA,4.3,684,"7V36+FV Mumbai, Mah
 Romeen Medico Surgical Hospital,MUMBAI,MAHARASHTRA,3.7,50,"4W8J+59 Mumbai, Maharashtra"
 Padmani Hospital & ICU,MUMBAI,MAHARASHTRA,4.2,86,"4WWP+WF Mumbai, Maharashtra"
 Lifeline Medicare Hospital,MUMBAI,MAHARASHTRA,3.7,60,"6V48+Q8 Mumbai, Maharashtra"
-Balaji Hospital Ulwe,MUMBAI,MAHARASHTRA,4.0,191,"X2HG+F2 Navi Mumbai, Maharashtra"
+Balaji Hospital Ulwe,MUMBAI,MAHARASHTRA,4,191,"X2HG+F2 Navi Mumbai, Maharashtra"
 "Dr Thakurs Ear -Nose Throat Clinic and 
 Hospital",MUMBAI,MAHARASHTRA,3.6,88,"4WWP+WF Mumbai, Maharashtra"
 V Care Hospital and ICU,MUMBAI,MAHARASHTRA,3.1,62,"3V7J+3M Mumbai, Maharashtra"
 Sai Kripa Hospital,MUMBAI,MAHARASHTRA,4.5,519,"5VJ5+F4 Mumbai, Maharashtra"
-Shubham Lifeline Multispeciality Hospital,MUMBAI,MAHARASHTRA,4.0,32,"FR77+JR Virar, Maharashtra"
+Shubham Lifeline Multispeciality Hospital,MUMBAI,MAHARASHTRA,4,32,"FR77+JR Virar, Maharashtra"
 Sparsh Childrens Hospital,MUMBAI,MAHARASHTRA,4.5,466,"2R3R+W3 Mumbai, Maharashtra"
 Apex Multispeciality Hospitals,MUMBAI,MAHARASHTRA,4.3,1712,"6VC7+55 Mumbai, Maharashtra"
 Cuddles N Cure Children Hospital,MUMBAI,MAHARASHTRA,4.2,108,"5WGX+6P Mumbai, Maharashtra"
@@ -659,7 +659,7 @@ Lotus Mutispeciality Hospital,MUMBAI,MAHARASHTRA,4.2,74,"6R3Q+QG Mumbai, Maharas
 Care Hospital (Nagpur),Nagpur,MAHARASHTRA,,,
 Alexis Multispeciality Hospital Pvt Ltd,NAGPUR,MAHARASHTRA,4.1,2055,"53PH+8R Nagpur, Maharashtra"
 New Era Hospital,NAGPUR,MAHARASHTRA,4.6,4196,"542C+HR Nagpur, Maharashtra"
-Suretech Hospital Research Centre Ltd,NAGPUR,MAHARASHTRA,4.0,1,
+Suretech Hospital Research Centre Ltd,NAGPUR,MAHARASHTRA,4,1,
 Venus Critical Care Hospital Nagpur,NAGPUR,MAHARASHTRA,2.9,54,"53CW+5G Nagpur, Maharashtra"
 Zenith Hospital,Nagpur,MAHARASHTRA,4.4,282,"43P4+8W Nagpur, Maharashtra"
 "Bhagwati ENT Hospital & Endoscopy 
@@ -672,11 +672,11 @@ Icon Hospital,NAGPUR,MAHARASHTRA,,,
 Auro Critical Care Hospital,NAGPUR,MAHARASHTRA,3.4,17,"44XQ+26 Nagpur, Maharashtra"
 Sadguru Hospital,NASIK,MAHARASHTRA,4.2,263,"2R53+M6 Nashik, Maharashtra"
 Vakratunda Hospital Pvt Ltd,NASIK,MAHARASHTRA,,,
-Pushkar Hospital,NASIK,MAHARASHTRA,5.0,20,"2Q7W+MM Nashik, Maharashtra"
+Pushkar Hospital,NASIK,MAHARASHTRA,5,20,"2Q7W+MM Nashik, Maharashtra"
 "SantKrupa Multi Speciality And Accident 
 Hospital",NASIK,MAHARASHTRA,4.5,256,"WRGM+6F Deolali, Maharashtra"
 "Shushrusha Heart Care Centre And 
-Speciality Hospital(Nerul)",NAVI MUMBAI,MAHARASHTRA,4.0,427,"22V5+6V Navi Mumbai, Maharashtra"
+Speciality Hospital(Nerul)",NAVI MUMBAI,MAHARASHTRA,4,427,"22V5+6V Navi Mumbai, Maharashtra"
 Sanjivani Hospital (Airoli),NAVI MUMBAI,MAHARASHTRA,3.5,26,"5X4X+R8 Navi Mumbai, Maharashtra"
 Jeevan Jyot Hospital,Navi Mumbai,MAHARASHTRA,4.7,456,"237V+9W Navi Mumbai, Maharashtra"
 "Terna Speciality Hospital And Research 
@@ -690,7 +690,7 @@ Dr Jadhav Hospital,NAVI MUMBAI,MAHARASHTRA,3.4,73,"5X2X+F4 Navi Mumbai, Maharash
 Apex Multispeciality Hospital Taloja,NAVI MUMBAI,MAHARASHTRA,3.8,56,"33GR+4G Navi Mumbai, Maharashtra"
 Sunshine Hospital,NAVI MUMBAI,MAHARASHTRA,4.5,37,"22P5+GV Navi Mumbai, Maharashtra"
 Apple Hospital,NAVI MUMBAI,MAHARASHTRA,3.1,268,"4XVW+Q3 Navi Mumbai, Maharashtra"
-Avadhoot Hospital And Iccu,Navi Mumbai,MAHARASHTRA,3.0,145,"5X5V+W2 Navi Mumbai, Maharashtra"
+Avadhoot Hospital And Iccu,Navi Mumbai,MAHARASHTRA,3,145,"5X5V+W2 Navi Mumbai, Maharashtra"
 "B And J Superspeciality Hospital And 
 Research Center",NAVI MUMBAI,MAHARASHTRA,4.7,1062,"23FR+GG Navi Mumbai, Maharashtra"
 Carepoint Hospital,NAVI MUMBAI,MAHARASHTRA,,,
@@ -722,7 +722,7 @@ Vedaant Multispeciality Hospital,Navi Mumbai,MAHARASHTRA,4.2,224,
 Yashoda Maternity And General Hospital,Navi Mumbai,MAHARASHTRA,3.7,53,"237W+56 Navi Mumbai, Maharashtra"
 Sai Jyot Multispeciality Hospital,NAVI MUMBAI,MAHARASHTRA,4.7,1280,"4252+QQ Navi Mumbai, Maharashtra"
 Tej Vedaant Hospitals,NAVI MUMBAI,MAHARASHTRA,4.2,224,
-Siddharth Hospital,NAVI MUMBAI,MAHARASHTRA,4.0,3,
+Siddharth Hospital,NAVI MUMBAI,MAHARASHTRA,4,3,
 Purnima Hospital,NAVI MUMBAI,MAHARASHTRA,3.3,34,"6VP6+J7 Mumbai, Maharashtra"
 Acharya Shri Nanesh Hospital,NAVI MUMBAI,MAHARASHTRA,4.7,538,"22MR+8F Navi Mumbai, Maharashtra"
 Swami Krupa Hospital,NAVI MUMBAI,MAHARASHTRA,4.7,62,"239R+G2 Navi Mumbai, Maharashtra"
@@ -731,10 +731,10 @@ Sadguru Hospital(Ghansoli),NAVI MUMBAI,MAHARASHTRA,,,
 Sai Snehdeep Hospital,NAVI MUMBAI,MAHARASHTRA,4.6,1567,"4252+CP Navi Mumbai, Maharashtra"
 Panvel Hospital,NAVI MUMBAI,MAHARASHTRA,3.9,85,"X4M5+68 Navi Mumbai, Maharashtra"
 Shree Hospital (Pune),PUNE,MAHARASHTRA,3.3,414,"HW2R+HF Pune, Maharashtra"
-Aditya Birla Memorial Hospital,PUNE,MAHARASHTRA,4.0,5383,"JQGF+7W Pimpri-Chinchwad, Maharashtra"
-Sangamnerkar Hospitals,PUNE,MAHARASHTRA,5.0,1,"GR3V+8V Pune, Maharashtra"
+Aditya Birla Memorial Hospital,PUNE,MAHARASHTRA,4,5383,"JQGF+7W Pimpri-Chinchwad, Maharashtra"
+Sangamnerkar Hospitals,PUNE,MAHARASHTRA,5,1,"GR3V+8V Pune, Maharashtra"
 Karne Hospital Pvt Ltd,PUNE,MAHARASHTRA,4.6,319,"FVW5+59 Pune, Maharashtra"
-Sanjeevani Nursing Hospital,PUNE,MAHARASHTRA,4.0,6,"FVF4+M8 Pune, Maharashtra"
+Sanjeevani Nursing Hospital,PUNE,MAHARASHTRA,4,6,"FVF4+M8 Pune, Maharashtra"
 Amrut Hospital,PUNE,MAHARASHTRA,3.9,34,"JR52+XM Pune, Maharashtra"
 Lifeline Hospital,PUNE,MAHARASHTRA,3.7,392,"HXMQ+2Q Pune, Maharashtra"
 Omkar Accident Hospital,PUNE,MAHARASHTRA,4.3,18,
