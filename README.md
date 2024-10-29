@@ -9,7 +9,7 @@
 - [x] **Identify Hospital Dataset**: Locate a dataset with comprehensive information on hospitals across India.
 - [x] **Extract and Filter Relevant Data**: Extract necessary information (e.g., hospital names) and filter out irrelevant values.
 - [x] **Web Scraping Setup**: Develop and test a script to scrape data (coordinates, ratings, number of ratings) from Google Maps for each hospital.
-- [ ] **Data Documentation**: Document scraped data, including coordinates, ratings, and review counts.
+- [x] **Data Documentation**: Document scraped data, including coordinates, ratings, and review counts.
 
 #### Phase 2: Calculate Effective Rating and Sphere of Influence
 
@@ -43,14 +43,14 @@
 
 - **Effective Rating**: Create a formula that combines the rating (1–5 scale) and the number of ratings to balance quality and popularity. For example:
 - **Effective Rating**: Create a formula that combines the rating (1–5 scale) and the number of ratings to balance quality and popularity. For example:
-   ```
-   Effective Rating = Rating * log(1 + Number of Ratings)
-   ```
+  ```
+  Effective Rating = Rating * log(1 + Number of Ratings)
+  ```
 - **Sphere of Influence**: Define the influence radius using an exponential decay function:
-   ```
-   Radius = R0 * exp(alpha * Effective Rating)
-   ```
-   where `R0` is a base radius, and `alpha` is a factor controlling the decay rate.
+  ```
+  Radius = R0 * exp(alpha * Effective Rating)
+  ```
+  where `R0` is a base radius, and `alpha` is a factor controlling the decay rate.
 
 #### 2. Influence Calculation per Square Kilometer
 
