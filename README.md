@@ -13,7 +13,7 @@
 
 #### Phase 2: Calculate Effective Rating and Sphere of Influence
 
-- [ ] **Define Effective Rating Formula**: Implement a formula combining ratings and review counts to calculate an effective rating.
+- [x] **Define Effective Rating Formula**: Implement a formula combining ratings and review counts to calculate an effective rating.
 - [ ] **Determine Sphere of Influence**: Develop an algorithm to calculate influence radius based on each hospital's effective rating.
 
 #### Phase 3: Grid Overlay and Influence Calculation
