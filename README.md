@@ -14,12 +14,12 @@
 #### Phase 2: Calculate Effective Rating and Sphere of Influence
 
 - [x] **Define Effective Rating Formula**: Implement a formula combining ratings and review counts to calculate an effective rating.
-- [ ] **Determine Sphere of Influence**: Develop an algorithm to calculate influence radius based on each hospital's effective rating.
+- [x] **Determine Sphere of Influence**: Develop an algorithm to calculate influence radius based on each hospital's effective rating.
 
 #### Phase 3: Grid Overlay and Influence Calculation
 
-- [ ] **Grid the Country**: Create a 1 km² grid overlay for India.
-- [ ] **Get Census Data**: Devise a means to use census data for the project
+- [x] **Grid the Country**: Create a 1 km² grid overlay for India.
+- [x] **Get Census Data**: Devise a means to use census data for the project
 - [ ] **Calculate Influence Per Cell**: Sum influence scores from each hospital within the radius of each cell, and multiply by census data for population density.
 
 #### Phase 4: Identify Low-Access Areas
@@ -29,8 +29,8 @@
 
 #### Phase 5: Anonymization of Sensitive Data
 
-- [ ] **Define Anonymization Techniques**: Select appropriate anonymization techniques for hospital ratings and coordinates.
-- [ ] **Test Cluster Consistency Post-Anonymization**: Re-apply clustering to anonymized data and compare results with original clusters.
+- [x] **Define Anonymization Techniques**: Select appropriate anonymization techniques for hospital ratings and coordinates.
+- [x] **Test Cluster Consistency Post-Anonymization**: Re-apply clustering to anonymized data and compare results with original clusters.
 
 #### Phase 6: Documentation and Publication
 
