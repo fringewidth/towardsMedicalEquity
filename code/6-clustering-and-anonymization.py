@@ -7,6 +7,7 @@ import matplotlib.colors as mcolors
 from scipy.ndimage import label
 import random
 
+
 # %%
 # india borders
 NORTH = 37.1
@@ -25,6 +26,7 @@ def get_idx(lat, lon):
 
 def get_lat_lon(idx):
     return (NORTH - idx[0] * STEP, WEST + idx[1] * STEP)
+
 
 
 # %%
@@ -62,16 +64,17 @@ def plot_map(map, title, xlabel, ylabel, filename, cmap="GnBu", colorbar=True):
     plt.ylabel(ylabel)
     if colorbar:
         plt.colorbar()
-    plt.show()
     plt.savefig(filename)
+    plt.show()
 
-def plot_hist(map, title, xlabel, ylabel, filename, bins=50):
-    plt.hist(map.flatten(), bins=bins)
+def plot_hist(map, title, xlabel, ylabel, filename, bins=40):
+    plt.hist(map.flatten(), bins=bins, color="darkorange")
     plt.xlabel(xlabel)
     plt.ylabel(ylabel)
     plt.title(title)
-    plt.show()
+    plt.ylim(0, 13)
     plt.savefig(filename)
+    plt.show()
 
 def cluster(influence_map, cutoff):
     clustering_cutoff = np.percentile(influence_map[influence_map > 0], cutoff)
@@ -87,6 +90,7 @@ def plot_clusters(clusters, num_clusters, title, xlabel, ylabel, filename):
     colors = ['white'] + colors[:num_colors - 1]
     random_cmap = mcolors.ListedColormap(colors[:num_colors])
     plot_map(clusters, title, xlabel, ylabel, filename, random_cmap, False)
+
 
 
 # %%
@@ -154,6 +158,7 @@ def add_naive_noise(lat, lon, std, mean):
     return lat + np.random.normal(mean, std), lon + np.random.normal(mean, std)
 
 
+
 # %%
 hospitals = pd.read_csv('../data/main/4-hospitals_cleaned.csv')
 hospitals['Radius of Influence'] = hospitals['Effective Rating'] * RADIUS_FACTOR
@@ -165,8 +170,27 @@ plot_clusters(clusters, num_clusters, "Clusters at 50th Percentile", "Longitude"
 
 plot_hist(np.log(cluster_densities), "Histogram of Cluster Densities", "Logarithm of Cluster Density", "Frequency", "../fig/cluster-densities.svg")
 
+
 # %%
+hospitals_clustered = hospitals.copy()
 cluster_properties = precompute_cluster_properties(clusters)
+clustered_influence_map = get_influence_map(hospitals_clustered, 'Latitude', 'Longitude')
+clusters, num_clusters, cluster_densities, binary_map = cluster(influence_map, 50)
+
+for i in range(len(hospitals_clustered)):
+    lat, lon = hospitals_clustered.loc[i, 'Latitude'], hospitals_clustered.loc[i, 'Longitude']
+    new_lat, new_lon = add_clustered_noise(lat, lon, clusters, cluster_properties)
+    hospitals_clustered.loc[i, 'Latitude'] = new_lat
+    hospitals_clustered.loc[i, 'Longitude'] = new_lon
+
+clustered_influence_map = get_influence_map(hospitals_clustered, 'Latitude', 'Longitude')
+clusters, num_clusters, cluster_densities, binary_map = cluster(clustered_influence_map, 50)
+
+plot_clusters(clusters, num_clusters, "Cluster Anonymised Clusters at 50th Percentile", "Longitude", "Latitude", "../fig/clustered-clusters.svg")
+plot_hist(np.log(cluster_densities), "Histogram of Cluster Densities (Clustered Anonymised)", "Logarithm of Cluster Density", "Frequency", "../fig/clustered-cluster-densities.svg")
+
+
+# %%
 # find mean and std for naive noise
 min_radii = []
 
@@ -193,16 +217,5 @@ plot_clusters(clusters, num_clusters, "Anonymised Clusters at 50th Percentile af
 plot_hist(np.log(cluster_densities), "Histogram of Cluster Densities (Naively Anonymised)", "Logarithm of Cluster Density", "Frequency", "../fig/naive-cluster-densities.svg")
 
 
-# %%
-hospitals_clustered = hospitals.copy()
-clustered_influence_map = get_influence_map(hospitals_clustered, 'Latitude', 'Longitude')
-clusters, num_clusters, cluster_densities, binary_map = cluster(clustered_influence_map, 50)
 
-for i in range(len(hospitals_clustered)):
-    lat, lon = hospitals_clustered.loc[i, 'Latitude'], hospitals_clustered.loc[i, 'Longitude']
-    new_lat, new_lon = add_clustered_noise(lat, lon, clusters, cluster_properties)
-    hospitals_clustered.loc[i, 'Latitude'] = new_lat
-    hospitals_clustered.loc[i, 'Longitude'] = new_lon
 
-plot_clusters(clusters, num_clusters, "Cluster Anonymised Clusters at 50th Percentile", "Longitude", "Latitude", "../fig/clustered-clusters.svg")
-plot_hist(np.log(cluster_densities), "Histogram of Cluster Densities (Clustered Anonymised)", "Logarithm of Cluster Density", "Frequency", "../fig/clustered-cluster-densities.svg")
