@@ -8,6 +8,7 @@ from scipy.ndimage import label
 import random
 
 
+
 # %%
 # india borders
 NORTH = 37.1
@@ -26,6 +27,7 @@ def get_idx(lat, lon):
 
 def get_lat_lon(idx):
     return (NORTH - idx[0] * STEP, WEST + idx[1] * STEP)
+
 
 
 
@@ -93,6 +95,7 @@ def plot_clusters(clusters, num_clusters, title, xlabel, ylabel, filename):
 
 
 
+
 # %%
 def precompute_cluster_properties(clusters):
     cluster_properties = {}
@@ -126,7 +129,7 @@ def precompute_cluster_properties(clusters):
     return cluster_properties
 
 
-def add_clustered_noise(lat, lon, clusters, cluster_properties):
+def add_clustered_noise(lat, lon, effective_rating, clusters, cluster_properties):
     idx, jdx = get_idx(lat, lon)
     
     cluster_id = clusters[idx, jdx]
@@ -141,7 +144,7 @@ def add_clustered_noise(lat, lon, clusters, cluster_properties):
     for _ in range(256):
         noise_direction = np.random.randn(2)  #random direction
         noise_direction /= np.linalg.norm(noise_direction)  
-        noise_magnitude = np.random.uniform(0, min_radius)
+        noise_magnitude = np.random.uniform(0, min_radius) / effective_rating**2
         noise = noise_magnitude * noise_direction
         
         new_coords = np.array([idx, jdx]) + noise
@@ -159,16 +162,19 @@ def add_naive_noise(lat, lon, std, mean):
 
 
 
+
 # %%
 hospitals = pd.read_csv('../data/main/4-hospitals_cleaned.csv')
 hospitals['Radius of Influence'] = hospitals['Effective Rating'] * RADIUS_FACTOR
 
 influence_map = get_influence_map(hospitals, 'Latitude', 'Longitude')
-plot_map(influence_map, "A Map of Hospital Influence", "Longitude", "Latitude", "../fig/influence-map.svg")
+
+plot_map(np.log(influence_map), "A Map of Hospital Influence (Loagarithmic)", "Longitude", "Latitude", "../fig/influence-map.svg")
 clusters, num_clusters, cluster_densities, binary_map = cluster(influence_map, 50)
 plot_clusters(clusters, num_clusters, "Clusters at 50th Percentile", "Longitude", "Latitude", "../fig/clusters.svg")
 
 plot_hist(np.log(cluster_densities), "Histogram of Cluster Densities", "Logarithm of Cluster Density", "Frequency", "../fig/cluster-densities.svg")
+
 
 
 # %%
@@ -178,8 +184,8 @@ clustered_influence_map = get_influence_map(hospitals_clustered, 'Latitude', 'Lo
 clusters, num_clusters, cluster_densities, binary_map = cluster(influence_map, 50)
 
 for i in range(len(hospitals_clustered)):
-    lat, lon = hospitals_clustered.loc[i, 'Latitude'], hospitals_clustered.loc[i, 'Longitude']
-    new_lat, new_lon = add_clustered_noise(lat, lon, clusters, cluster_properties)
+    lat, lon, effective_rating = hospitals_clustered.loc[i, 'Latitude'], hospitals_clustered.loc[i, 'Longitude'], hospitals_clustered.loc[i, 'Effective Rating']
+    new_lat, new_lon = add_clustered_noise(lat, lon, effective_rating, clusters, cluster_properties)
     hospitals_clustered.loc[i, 'Latitude'] = new_lat
     hospitals_clustered.loc[i, 'Longitude'] = new_lon
 
@@ -188,6 +194,7 @@ clusters, num_clusters, cluster_densities, binary_map = cluster(clustered_influe
 
 plot_clusters(clusters, num_clusters, "Cluster Anonymised Clusters at 50th Percentile", "Longitude", "Latitude", "../fig/clustered-clusters.svg")
 plot_hist(np.log(cluster_densities), "Histogram of Cluster Densities (Clustered Anonymised)", "Logarithm of Cluster Density", "Frequency", "../fig/clustered-cluster-densities.svg")
+
 
 
 # %%
@@ -215,6 +222,9 @@ naive_influence_map = get_influence_map(hospitals_naive, 'Latitude', 'Longitude'
 clusters, num_clusters, cluster_densities, binary_map = cluster(naive_influence_map, 50)
 plot_clusters(clusters, num_clusters, "Anonymised Clusters at 50th Percentile after Random Noise Addition", "Longitude", "Latitude", "../fig/naive-clusters.svg")
 plot_hist(np.log(cluster_densities), "Histogram of Cluster Densities (Naively Anonymised)", "Logarithm of Cluster Density", "Frequency", "../fig/naive-cluster-densities.svg")
+
+
+
 
 
 
