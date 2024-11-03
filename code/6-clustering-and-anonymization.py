@@ -82,8 +82,8 @@ def cluster(influence_map, cutoff):
     clustering_cutoff = np.percentile(influence_map[influence_map > 0], cutoff)
     binary_map = (influence_map > clustering_cutoff).astype(int)
     clusters, num_clusters = label(binary_map)
-    cluster_densities = [influence_map[clusters == cluster_id].sum() for cluster_id in range(1, num_clusters + 1)]
-    return clusters, num_clusters, cluster_densities, binary_map
+    cluster_Magnitude = [influence_map[clusters == cluster_id].sum() for cluster_id in range(1, num_clusters + 1)]
+    return clusters, num_clusters, cluster_Magnitude, binary_map
 
 def plot_clusters(clusters, num_clusters, title, xlabel, ylabel, filename):
     num_colors = num_clusters + 1
@@ -169,11 +169,11 @@ hospitals['Radius of Influence'] = hospitals['Effective Rating'] * RADIUS_FACTOR
 
 influence_map = get_influence_map(hospitals, 'Latitude', 'Longitude')
 
-plot_map(np.log(influence_map), "A Map of Hospital Influence (Loagarithmic)", "Longitude", "Latitude", "../fig/influence-map.svg")
+plot_map(np.log(influence_map), "A Map of Hospital Influence (Logarithmic)", "Longitude", "Latitude", "../fig/influence-map.svg")
 clusters, num_clusters, cluster_densities, binary_map = cluster(influence_map, 50)
 plot_clusters(clusters, num_clusters, "Clusters at 50th Percentile", "Longitude", "Latitude", "../fig/clusters.svg")
 
-plot_hist(np.log(cluster_densities), "Histogram of Cluster Densities", "Logarithm of Cluster Density", "Frequency", "../fig/cluster-densities.svg")
+plot_hist(np.log(cluster_densities), "Histogram of Cluster Magnitudes", "Logarithm of Cluster Magnitude", "Frequency", "../fig/cluster-densities.svg")
 
 
 
@@ -192,8 +192,8 @@ for i in range(len(hospitals_clustered)):
 clustered_influence_map = get_influence_map(hospitals_clustered, 'Latitude', 'Longitude')
 clusters, num_clusters, cluster_densities, binary_map = cluster(clustered_influence_map, 50)
 
-plot_clusters(clusters, num_clusters, "Cluster Anonymised Clusters at 50th Percentile", "Longitude", "Latitude", "../fig/clustered-clusters.svg")
-plot_hist(np.log(cluster_densities), "Histogram of Cluster Densities (Clustered Anonymised)", "Logarithm of Cluster Density", "Frequency", "../fig/clustered-cluster-densities.svg")
+plot_clusters(clusters, num_clusters, "Clusters at 50th Percentile after Cluster-Preserving Anonymization", "Longitude", "Latitude", "../fig/clustered-clusters.svg")
+plot_hist(np.log(cluster_densities), "Histogram of Cluster Magnitudes after Cluster-Preserving Anonymization", "Logarithm of Cluster Magnitude", "Frequency", "../fig/clustered-cluster-densities.svg")
 
 
 
@@ -220,8 +220,8 @@ for i in range(len(hospitals_naive)):
 
 naive_influence_map = get_influence_map(hospitals_naive, 'Latitude', 'Longitude')
 clusters, num_clusters, cluster_densities, binary_map = cluster(naive_influence_map, 50)
-plot_clusters(clusters, num_clusters, "Anonymised Clusters at 50th Percentile after Random Noise Addition", "Longitude", "Latitude", "../fig/naive-clusters.svg")
-plot_hist(np.log(cluster_densities), "Histogram of Cluster Densities (Naively Anonymised)", "Logarithm of Cluster Density", "Frequency", "../fig/naive-cluster-densities.svg")
+plot_clusters(clusters, num_clusters, "Anonymized Clusters at 50th Percentile after Gaussian Noise Addition", "Longitude", "Latitude", "../fig/naive-clusters.svg")
+plot_hist(np.log(cluster_densities), "Histogram of Cluster Magnitudes after Gaussian Noise Addition", "Logarithm of Cluster Magnitude", "Frequency", "../fig/naive-cluster-densities.svg")
 
 
 
