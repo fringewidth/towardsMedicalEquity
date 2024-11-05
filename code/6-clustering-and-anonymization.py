@@ -5,6 +5,7 @@ from scipy.spatial import ConvexHull, Delaunay
 import matplotlib.pyplot as plt
 import matplotlib.colors as mcolors
 from scipy.ndimage import label
+from scipy.stats import wasserstein_distance
 import random
 
 
@@ -77,6 +78,10 @@ def plot_hist(map, title, xlabel, ylabel, filename, bins=40):
     plt.ylim(0, 13)
     plt.savefig(filename)
     plt.show()
+
+    hist, bin = np.histogram(map.flatten(), bins=bins)
+    hist = hist/np.sum(hist)
+    return hist, bin
 
 def cluster(influence_map, cutoff):
     clustering_cutoff = np.percentile(influence_map[influence_map > 0], cutoff)
@@ -173,7 +178,7 @@ plot_map(np.log(influence_map), "A Map of Hospital Influence (Logarithmic)", "Lo
 clusters, num_clusters, cluster_densities, binary_map = cluster(influence_map, 50)
 plot_clusters(clusters, num_clusters, "Clusters at 50th Percentile", "Longitude", "Latitude", "../fig/clusters.svg")
 
-plot_hist(np.log(cluster_densities), "Histogram of Cluster Magnitudes", "Logarithm of Cluster Magnitude", "Frequency", "../fig/cluster-densities.svg")
+hist_og, bin_og = plot_hist(np.log(cluster_densities), "Histogram of Cluster Magnitudes", "Logarithm of Cluster Magnitude", "Frequency", "../fig/cluster-densities.svg")
 
 
 
@@ -193,7 +198,7 @@ clustered_influence_map = get_influence_map(hospitals_clustered, 'Latitude', 'Lo
 clusters, num_clusters, cluster_densities, binary_map = cluster(clustered_influence_map, 50)
 
 plot_clusters(clusters, num_clusters, "Clusters at 50th Percentile after Cluster-Preserving Anonymization", "Longitude", "Latitude", "../fig/clustered-clusters.svg")
-plot_hist(np.log(cluster_densities), "Histogram of Cluster Magnitudes after Cluster-Preserving Anonymization", "Logarithm of Cluster Magnitude", "Frequency", "../fig/clustered-cluster-densities.svg")
+hist_clus, bin_clus =  plot_hist(np.log(cluster_densities), "Histogram of Cluster Magnitudes after Cluster-Preserving Anonymization", "Logarithm of Cluster Magnitude", "Frequency", "../fig/clustered-cluster-densities.svg")
 
 
 
@@ -221,11 +226,12 @@ for i in range(len(hospitals_naive)):
 naive_influence_map = get_influence_map(hospitals_naive, 'Latitude', 'Longitude')
 clusters, num_clusters, cluster_densities, binary_map = cluster(naive_influence_map, 50)
 plot_clusters(clusters, num_clusters, "Anonymized Clusters at 50th Percentile after Gaussian Noise Addition", "Longitude", "Latitude", "../fig/naive-clusters.svg")
-plot_hist(np.log(cluster_densities), "Histogram of Cluster Magnitudes after Gaussian Noise Addition", "Logarithm of Cluster Magnitude", "Frequency", "../fig/naive-cluster-densities.svg")
+hist_naive, bin_naive = plot_hist(np.log(cluster_densities), "Histogram of Cluster Magnitudes after Gaussian Noise Addition", "Logarithm of Cluster Magnitude", "Frequency", "../fig/naive-cluster-densities.svg")
 
-
-
-
-
+# %%
+emd_clus = wasserstein_distance(bin_og[:-1], bin_clus[:-1], u_weights=hist_og, v_weights=hist_clus)
+emd_naive = wasserstein_distance(bin_og[:-1], bin_naive[:-1], u_weights=hist_og, v_weights=hist_naive)
+print(f"EMD between original and clustered: {emd_clus}")
+print(f"EMD between original and naive: {emd_naive}")
 
 
