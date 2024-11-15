@@ -1,0 +1,8 @@
+fig/cluster-densities.svg
+fig/clustered-cluster-densities.svg
+fig/clusters.svg
+fig/influence-map.svg
+fig/initial_bubble_plot.svg
+fig/naive-cluster-densities.svg
+fig/scatter-plot.svg
+*.geojson

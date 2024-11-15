@@ -4,15 +4,10 @@ import pandas as pd
 hospitals = pd.read_csv('../data/main/6-hospitals_anonymized.csv')
 districts = pd.read_csv('../data/main/misc/district-density.csv')
 
-
-
-
 # %%
 hospitals['city'] = hospitals['City'].str.lower().str.replace('\r\n', '', regex=False).str.replace('\n', '', regex=False)
 districts.drop(columns=['Unnamed: 0'], inplace=True)
 districts['district'] = districts['District'].str.lower()
-
-
 
 # %%
 not_found = set()
@@ -21,7 +16,6 @@ for city in hospitals['city']:
         not_found.add(city.lower())
     
 print(sorted(not_found))
-
 
 # %%
 def replace_hospital_city(hospitals, source, replacement):
@@ -147,27 +141,16 @@ replaces = {
     'zirakapur': 'sahibzada ajit singh nagar'
 }
 
-
-
 for source, replacement in replaces.items():
     replace_hospital_city(hospitals, source, replacement)
 for source, replacement in replaces.items():
     replace_hospital_city(hospitals, source, replacement)
-
-
 
 # %%
 hospitals = hospitals.merge(districts[['district', 'Density']], left_on='city', right_on='district', how='left')
-
-
 
 # %%
 hospitals['District'] = hospitals['district'].str.title()
 hospitals.drop(columns=['city', 'district'], inplace=True)
 hospitals = hospitals[['id', 'City', 'State', 'District', 'Density', 'Latitude', 'Longitude', 'Rating', 'Number of Reviews']]
 hospitals.to_csv('../data/main/7-hospitals_population_densities.csv', index=False)
-
-
-
-
-
