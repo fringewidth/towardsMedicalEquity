@@ -1,75 +1,90 @@
 # Towards Medical Equity
+_Hospital Location Anonymization Pipeline_
 
-## Goals:
+A Python pipeline for collecting, processing, and anonymizing hospital location data while preserving spatial clustering patterns.
 
-### Project Technical Goals: A Roadmap
+## What This Does
 
-#### Phase 1: Data Collection
+This repository contains the complete data processing pipeline that:
 
-- [x] **Identify Hospital Dataset**: Locate a dataset with comprehensive information on hospitals across India.
-- [x] **Extract and Filter Relevant Data**: Extract necessary information (e.g., hospital names) and filter out irrelevant values.
-- [x] **Web Scraping Setup**: Develop and test a script to scrape data (coordinates, ratings, number of ratings) from Google Maps for each hospital.
-- [x] **Data Documentation**: Document scraped data, including coordinates, ratings, and review counts.
+1. **Extracts hospital data** from PDF sources and web scraping
+2. **Calculates influence metrics** based on ratings and review counts  
+3. **Identifies natural clusters** of hospitals by geographic influence
+4. **Applies cluster-preserving anonymization** to protect location privacy
+5. **Generates anonymized datasets** suitable for research and analysis
 
-#### Phase 2: Calculate Effective Rating and Sphere of Influence
+![Initial Hospital Distribution](fig/initial_bubble_plot.svg)
+*Hospital locations sized by effective rating (combination of star rating and review count)*
 
-- [x] **Define Effective Rating Formula**: Implement a formula combining ratings and review counts to calculate an effective rating.
-- [x] **Determine Sphere of Influence**: Develop an algorithm to calculate influence radius based on each hospital's effective rating.
+## Pipeline Overview
 
-#### Phase 3: Grid Overlay and Influence Calculation
+Run the scripts in sequence:
 
-- [x] **Grid the Country**: Create a 1 km² grid overlay for India.
-- [x] **Get Census Data**: Devise a means to use census data for the project
-- [ ] **Calculate Influence Per Cell**: Sum influence scores from each hospital within the radius of each cell, and multiply by census data for population density.
+```bash
+python code/1-pdf-extract.py          # Extract hospitals from PDF
+python code/2-scrape-maps.py          # Scrape ratings and coordinates  
+python code/3-merge-reviews.py        # Merge review data
+python code/4-scrape-coordinates.py   # Complete coordinate data
+python code/5-post-process.py         # Clean and process data
+python code/6-clustering-and-anonymization.py  # Generate clusters
+python code/7-anonymize-fully.py      # Apply anonymization
+python code/8-add-population-densities.py      # Add demographic data
+```
 
-#### Phase 4: Identify Low-Access Areas
+### Influence Mapping
+![Hospital Influence Map](fig/influence-map.svg)
 
-- [ ] **Define Low-Access Thresholds**: Establish thresholds to classify cells as “low-access” based on influence scores.
-- [ ] **Visualize Low-Access Areas**: Use mapping libraries to create a visual representation of underserved areas.
+*Logarithmic map showing hospital influence across India based on effective ratings*
 
-#### Phase 5: Anonymization of Sensitive Data
+### Cluster Identification
+![Original Clusters](fig/clusters.svg)
 
-- [x] **Define Anonymization Techniques**: Select appropriate anonymization techniques for hospital ratings and coordinates.
-- [x] **Test Cluster Consistency Post-Anonymization**: Re-apply clustering to anonymized data and compare results with original clusters.
+*Natural hospital clusters identified from top 50% of influence values*
 
-#### Phase 6: Documentation and Publication
+## What we did different
 
-- [ ] **Document Anonymization Methodology**: Publish a clear guide on anonymization techniques that maintain data utility.
-- [ ] **Prepare Final Report and Visualizations**: Summarize findings and create visualizations of influence distribution and underserved areas.
+Unlike traditional anonymization that adds random noise (destroying spatial patterns), our method identifies natural hospital clusters and constrains location shifts to stay within cluster boundaries. This preserves the geographic distribution needed for meaningful analysis while protecting individual facility privacy.
 
-## Methodology:
+### Anonymization Comparison
 
-#### 1. Defining Effective Rating and Sphere of Influence
+![Our clusters](fig/clustered-cluster-densities.svg)
 
-- **Effective Rating**: Create a formula that combines the rating (1–5 scale) and the number of ratings to balance quality and popularity. For example:
-- **Effective Rating**: Create a formula that combines the rating (1–5 scale) and the number of ratings to balance quality and popularity. For example:
-  ```
-  Effective Rating = Rating * log(1 + Number of Ratings)
-  ```
-- **Sphere of Influence**: Define the influence radius using an exponential decay function:
-  ```
-  Radius = R0 * exp(alpha * Effective Rating)
-  ```
-  where `R0` is a base radius, and `alpha` is a factor controlling the decay rate.
+![Cluster-Preserving Anonymization](fig/clustered-clusters.svg)
 
-#### 2. Influence Calculation per Square Kilometer
+*Clusters after our cluster-preserving anonymization method*
 
-- Overlay a grid over the country (e.g., each cell representing 1 km²).
-- For each hospital, calculate its influence within each cell inside its radius, then sum influences from all hospitals at each cell.
-- Multiply the influence value for each cell by its population density (using census data) to highlight underserved areas.
+![Naive Anonymization](fig/naive-clusters.svg)
 
-#### 3. Identifying Low-Access Areas
+*Clusters after traditional random noise addition (note the distortion)*
 
-- Define thresholds to identify “low-access” areas based on influence scores (e.g., bottom quartile).
-- Visualize these areas on a map to identify patterns, especially in rural or densely populated areas.
+### Quantitative Results
+![Cluster Density Comparison](fig/cluster-densities.svg)
 
-#### 4. Anonymization to Preserve Influence Consistency
+*Original cluster magnitude distribution*
 
-- **Coordinates**: Apply slight perturbations within a tolerance that doesn’t significantly impact proximity-based influence.
-- **Effective Rating**: Implement generalization or value swapping within a defined range so that ratings maintain influence while masking original values.
-- Ensure the anonymization process preserves the distribution and relative influence of each hospital.
+Our method achieves an **Earth Mover's Distance of 0.4002** vs. **1.3015** for naive randomization, demonstrating superior preservation of spatial patterns.
 
-#### 5. Documentation of Anonymization Techniques
+## Dataset
 
-- Document methods to replicate the anonymization process while ensuring data utility.
-- Demonstrate consistency between anonymized and original data’s influence maps, ensuring accuracy for public sharing.
+📊 **Anonymized Dataset**: [Hospitals in India](https://www.kaggle.com/datasets/fringewidth/hospitals-in-india) - *Kaggle*
+
+## Repository Structure
+
+```
+├── code/           # Processing pipeline (scripts 1-8)
+├── data/           # Raw and processed datasets
+│   ├── main/       # Primary dataset versions  
+│   ├── pdf/        # Source hospital list
+│   └── temp/       # Intermediate files
+└── fig/            # Visualization outputs
+```
+
+---
+
+## Published Research
+
+This code was developed as part of research published in IEEE on privacy-preserving geospatial data anonymization:
+
+📄 **Paper**: [Privacy Preservation of Cluster Integrity on Web-Scraped Hospital Data](https://ieeexplore.ieee.org/document/10958977/)  
+📊 **Slides**: [Research Presentation](https://hrishik.me/papers/pdf/Privacy_Preservation_of_Cluster_Integrity_on_Web-Scraped_Hospital_Data_SLIDES.pdf)  
+🌐 **Summary**: [Project Overview](https://hrishik.me/papers/Anonymize-Hospital-Locations.html)
