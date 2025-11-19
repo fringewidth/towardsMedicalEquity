@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/879118832.svg)](https://doi.org/10.5281/zenodo.17645083)
 # Towards Medical Equity
 _Hospital Location Anonymization Pipeline_
 
